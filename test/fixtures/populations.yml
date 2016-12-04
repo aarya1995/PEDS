@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year: MyString
+  us_population: MyString
+  growth_percent: MyString
+  annual_change: MyString
+  data_note: MyString
+  source_link: MyString
+
+two:
+  year: MyString
+  us_population: MyString
+  growth_percent: MyString
+  annual_change: MyString
+  data_note: MyString
+  source_link: MyString

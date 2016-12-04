@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num_popular_votes: MyString
+  num_electoral_votes: MyString
+  result: MyString
+
+two:
+  num_popular_votes: MyString
+  num_electoral_votes: MyString
+  result: MyString

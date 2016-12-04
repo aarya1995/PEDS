@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  polling_percentage: MyString
+  date_poll_taken: MyString
+
+two:
+  polling_percentage: MyString
+  date_poll_taken: MyString

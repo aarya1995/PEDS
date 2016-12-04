@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: MyString
+  end_date: MyString
+  total_electoral_votes: MyString
+  total_popular_votes: MyString
+  voter_turnout: MyString
+  number_of_states_that_voted: MyString
+
+two:
+  start_date: MyString
+  end_date: MyString
+  total_electoral_votes: MyString
+  total_popular_votes: MyString
+  voter_turnout: MyString
+  number_of_states_that_voted: MyString
