@@ -46,7 +46,6 @@ task :scrape_election_results => :environment do
 
 		# extract popular and electoral votes
 
-
 		puts "#{winner}"
 		puts "#{election_duration}"
 
