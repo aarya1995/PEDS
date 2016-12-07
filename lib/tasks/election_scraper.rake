@@ -4,7 +4,9 @@
 # visit each election year hyperlink
 # open up that link and scrape data about election and nominees
 # This script can be run through the terminal: "rake scrape_election_results"
-
+# .elections_states tr:nth-child(1) tr
+# .elections_states:nth-child(2) (for older elections)
+# .elections_states:nth-child(1) (for newer ones)
 
 desc "scrape election data"
 
