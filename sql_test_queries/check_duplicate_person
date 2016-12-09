@@ -1,0 +1,6 @@
+﻿Select p1  from 
+People p1, People p2 
+Where p1.first_name = p2.first_name
+and p1.last_name = p2.last_name 
+and p1.middle_name = p2.last_name
+and p1.id = p2.id

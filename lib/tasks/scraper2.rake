@@ -9,7 +9,7 @@ task :grab_nominee_data => :environment do
 	require 'nokogiri'
 	require 'open-uri'
 
-	url = "http://www.presidency.ucsb.edu/showelection.php?year=1828"
+	url = "http://www.presidency.ucsb.edu/showelection.php?year=1936"
 	doc = Nokogiri::HTML(open(url))
 
 	# extract year from the title to determine which scraping algo to use

@@ -115,16 +115,16 @@ class ElectionDuration
     attr_accessor :start_date, :end_date
 
 end
-class Person
-	def initialize()
-		@first_name = nil
-		@last_name = nil
-		@middle_initial = nil
-		@birth_date = nil
-		@date_of_death = nil
-	end
-	  attr_accessor :first_name, :last_name, :middle_initial, :birth_date, :date_of_death
-end
+# class Person
+# 	def initialize()
+# 		@first_name = nil
+# 		@last_name = nil
+# 		@middle_initial = nil
+# 		@birth_date = nil
+# 		@date_of_death = nil
+# 	end
+# 	  attr_accessor :first_name, :last_name, :middle_initial, :birth_date, :date_of_death
+# end
 class Election
 	def initialize()
 		@election_duration = nil
