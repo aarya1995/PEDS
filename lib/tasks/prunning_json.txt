@@ -3,3 +3,5 @@
 -add change h.ross perot to henry ross perot
 -clear all jr's and sr's from names
 -change sewall/watson to arthur sewall
+
+-manually convert first election year data
