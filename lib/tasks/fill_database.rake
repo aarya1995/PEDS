@@ -11,9 +11,27 @@ task :fill_database => :environment do
 	create_people(nominees_json)
 	compute_total_popular(election_json,nominees_json)
 	create_elections(election_json)
+	create_parties(nominees_json)
 	create_nominees(nominees_json,election_json)
+
 end  
 
+def create_parties(nominees_json)
+	nominees_json.keys.each{
+		|year_string|
+		nominees_json[year_string].keys.each{
+			|nominee| 
+			party= nominees_json[year_string][nominee]["party"].strip.downcase
+			if (party.include?("unofficially"))
+				party = party.split(" ")[1]
+			end
+			if party[0].ord == 160
+				party = party[1..party.length-1]
+			end
+			Party.where(:party_name => party).first_or_create()
+		}
+	}
+end
 def create_nominees(nominees_json,election_json)
 	winners ={}
 	nominees_json.keys.each{
@@ -57,11 +75,18 @@ def create_nominees(nominees_json,election_json)
 			 	result= "win"
 			 	winners[year_string] = true
 			 end
-
+			 nom_party = nominees_json[year_string][presidential_nominee_full_name]["party"].downcase.strip
+			 if(nom_party[0].ord == 160)
+			 	nom_party = nom_party[1..nom_party.length]
+			 end
+			 if (nom_party.include?("unofficially"))
+				nom_party = nom_party.split(" ")[1]
+			 end
+			 nom_party_id = Party.where(:party_name=>nom_party).first
 			 Nominee.where(:num_popular_votes => nom_pop_votes, 
 			 	:num_electoral_votes =>nom_elec_votes,
-			 	:result => result, :person_id => person_id,:election_id => election_id
-			 	).first_or_create()
+			 	:result => result, :person_id => person_id,:election_id => election_id,
+			 	 :party_id => nom_party_id).first_or_create()
 		#	 puts "year " + year_string +" "+presidential_nominee_full_name +" " +result
 		}	
 	
@@ -116,7 +141,6 @@ def compute_total_popular(election_json, nominees_json)
 
  			total_popular = (num_pop.strip.delete(',').to_i/ (percent_pop.strip.delete("%").to_f/100)).to_i.to_s
  			election_hash["total_popular"] = total_popular
-			# puts "total_popular " + total_popular
  		else
  			#fill the corresponding election data with empty total_popular votes
  			election_hash["total_popular"] = nil
