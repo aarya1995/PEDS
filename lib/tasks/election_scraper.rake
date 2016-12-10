@@ -122,13 +122,13 @@ class ElectionDuration
 
 end
 
-class Election
-	def initialize()
-		@election_duration = nil
-		@total_electoral_votes = 0
-		@total_popular_votes =0
-		@voter_turnout = ""
-	end
+# class Election
+# 	def initialize()
+# 		@election_duration = nil
+# 		@total_electoral_votes = 0
+# 		@total_popular_votes =0
+# 		@voter_turnout = ""
+# 	end
 
-	attr_accessor :election_duration,:total_electoral_votes, :total_popular_votes, :voter_turnout
-end
+# 	attr_accessor :election_duration,:total_electoral_votes, :total_popular_votes, :voter_turnout
+# end

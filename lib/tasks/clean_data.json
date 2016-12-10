@@ -1,5 +1,5 @@
 {
-  "2016 Presidential Election": {
+  "2016": {
     "Hillary Clinton": {
       "party": " Democratic",
       "vp": "Tim Kaine",
@@ -33,7 +33,7 @@
       "percent_popular_votes": "1.1%"
     }
   },
-  "2012 Presidential Election": {
+  "2012": {
     "Barack Obama": {
       "party": " Democratic",
       "vp": "Joseph Biden",
@@ -51,7 +51,7 @@
       "percent_popular_votes": "47.2%"
     }
   },
-  "2008 Presidential Election": {
+  "2008": {
     "Barack Obama": {
       "party": " Democratic",
       "vp": "Joseph Biden",
@@ -69,7 +69,7 @@
       "percent_popular_votes": "45.7%"
     }
   },
-  "2004 Presidential Election": {
+  "2004": {
     "George W. Bush": {
       "party": " Republican",
       "vp": "Richard Cheney",
@@ -87,7 +87,7 @@
       "percent_popular_votes": "48.3%"
     }
   },
-  "2000 Presidential Election": {
+  "2000": {
     "George W. Bush": {
       "party": " Republican",
       "vp": "Richard Cheney",
@@ -113,7 +113,7 @@
       "percent_popular_votes": " 2.7%"
     }
   },
-  "1996 Presidential Election": {
+  "1996": {
     "William J. Clinton": {
       "party": " Democratic",
       "vp": "Albert Gore",
@@ -139,7 +139,7 @@
       "percent_popular_votes": " 8.4%"
     }
   },
-  "1992 Presidential Election": {
+  "1992": {
     "William J. Clinton": {
       "party": " Democratic",
       "vp": "Albert Gore",
@@ -165,7 +165,7 @@
       "percent_popular_votes": " 18.9%"
     }
   },
-  "1988 Presidential Election": {
+  "1988": {
     "George Bush": {
       "party": " Republican",
       "vp": "Dan Quayle",
@@ -183,7 +183,7 @@
       "percent_popular_votes": "45.6%"
     }
   },
-  "1984 Presidential Election": {
+  "1984": {
     "Ronald Reagan": {
       "party": " Republican",
       "vp": "George Bush",
@@ -201,7 +201,7 @@
       "percent_popular_votes": "40.6%"
     }
   },
-  "1980 Presidential Election": {
+  "1980": {
     "Ronald Reagan": {
       "party": " Republican",
       "vp": "George Bush",
@@ -227,7 +227,7 @@
       "percent_popular_votes": " 6.6%"
     }
   },
-  "1976 Presidential Election": {
+  "1976": {
     "Jimmy Carter": {
       "party": " Democratic",
       "vp": "Walter Mondale",
@@ -245,7 +245,7 @@
       "percent_popular_votes": "48.0%"
     }
   },
-  "1972 Presidential Election": {
+  "1972": {
     "Richard M. Nixon": {
       "party": " Republican",
       "vp": "Spiro Agnew",
@@ -263,8 +263,8 @@
       "percent_popular_votes": "37.5%"
     }
   },
-  "1968 Presidential Election": {
-    "Richard Nixon": {
+  "1968": {
+    "Richard M. Nixon": {
       "party": " Republican",
       "vp": "Spiro Agnew",
       "electoral_votes": "301",
@@ -289,7 +289,7 @@
       "percent_popular_votes": " 13.5%"
     }
   },
-  "1964 Presidential Election": {
+  "1964": {
     "Lyndon B. Johnson": {
       "party": " Democratic",
       "vp": "Hubert H. Humphrey",
@@ -307,7 +307,7 @@
       "percent_popular_votes": "38.5%"
     }
   },
-  "1960 Presidential Election": {
+  "1960": {
     "John F. Kennedy": {
       "party": " Democratic",
       "vp": "Lyndon B. Johnson",
@@ -333,7 +333,7 @@
       "percent_popular_votes": "0%"
     }
   },
-  "1956 Presidential Election": {
+  "1956": {
     "Dwight D. Eisenhower": {
       "party": " Republican",
       "vp": "Richard M. Nixon",
@@ -351,7 +351,7 @@
       "percent_popular_votes": "42.0%"
     }
   },
-  "1952 Presidential Election": {
+  "1952": {
     "Dwight D. Eisenhower": {
       "party": " Republican",
       "vp": "Richard M. Nixon",
@@ -369,7 +369,7 @@
       "percent_popular_votes": "44.4%"
     }
   },
-  "1948 Presidential Election": {
+  "1948": {
     "Harry S Truman": {
       "party": " Democratic",
       "vp": "Alben W. Barkley",
@@ -395,7 +395,7 @@
       "percent_popular_votes": "2.4%"
     }
   },
-  "1944 Presidential Election": {
+  "1944": {
     "Franklin D. Roosevelt": {
       "party": " Democratic",
       "vp": "Harry S Truman",
@@ -413,7 +413,7 @@
       "percent_popular_votes": "45.9%"
     }
   },
-  "1940 Presidential Election": {
+  "1940": {
     "Franklin D. Roosevelt": {
       "party": " Democratic",
       "vp": "Henry A. Wallace",
@@ -431,9 +431,9 @@
       "percent_popular_votes": "44.8%"
     }
   },
-  "1936 Presidential Election": {
+  "1936": {
   },
-  "1932 Presidential Election": {
+  "1932": {
     "Franklin D. Roosevelt": {
       "party": " Democratic",
       "vp": "John Garner",
@@ -451,7 +451,7 @@
       "percent_popular_votes": "39.6%"
     }
   },
-  "1928 Presidential Election": {
+  "1928": {
     "Herbert Hoover": {
       "party": " Republican",
       "vp": "Charles Curtis",
@@ -469,7 +469,7 @@
       "percent_popular_votes": "40.8%"
     }
   },
-  "1924 Presidential Election": {
+  "1924": {
     "Calvin Coolidge": {
       "party": " Republican",
       "vp": "Charles G. Dawes",
@@ -495,7 +495,7 @@
       "percent_popular_votes": " 16.6%"
     }
   },
-  "1920 Presidential Election": {
+  "1920": {
     "Warren G. Harding": {
       "party": " Republican",
       "vp": "Calvin Coolidge",
@@ -513,7 +513,7 @@
       "percent_popular_votes": "34.1%"
     }
   },
-  "1916 Presidential Election": {
+  "1916": {
     "Woodrow Wilson": {
       "party": " Democratic",
       "vp": "Thomas Marshall",
@@ -531,7 +531,7 @@
       "percent_popular_votes": "46.1%"
     }
   },
-  "1912 Presidential Election": {
+  "1912": {
     "Woodrow Wilson": {
       "party": " Democratic",
       "vp": "Thomas R. Marshall",
@@ -565,7 +565,7 @@
       "percent_popular_votes": "6.0%"
     }
   },
-  "1908 Presidential Election": {
+  "1908": {
     "William Howard Taft": {
       "party": " Republican",
       "vp": "James S. Sherman",
@@ -583,7 +583,7 @@
       "percent_popular_votes": "43.0%"
     }
   },
-  "1904 Presidential Election": {
+  "1904": {
     "Theodore Roosevelt": {
       "party": " Republican",
       "vp": "Charles Fairbanks",
@@ -601,7 +601,7 @@
       "percent_popular_votes": "37.6%"
     }
   },
-  "1900 Presidential Election": {
+  "1900": {
     "William McKinley": {
       "party": " Republican",
       "vp": "Theodore Roosevelt",
@@ -619,7 +619,7 @@
       "percent_popular_votes": "45.5%"
     }
   },
-  "1896 Presidential Election": {
+  "1896": {
     "William McKinley": {
       "party": " Republican",
       "vp": "Garret Hobart",
@@ -637,7 +637,7 @@
       "percent_popular_votes": "45.8%"
     }
   },
-  "1892 Presidential Election": {
+  "1892": {
     "Grover Cleveland": {
       "party": " Democratic",
       "vp": "Adlai E. Stevenson",
@@ -663,7 +663,7 @@
       "percent_popular_votes": "8.5%"
     }
   },
-  "1888 Presidential Election": {
+  "1888": {
     "Benjamin Harrison": {
       "party": " Republican",
       "vp": "Levi Morton",
@@ -681,7 +681,7 @@
       "percent_popular_votes": "48.6%"
     }
   },
-  "1884 Presidential Election": {
+  "1884": {
     "Grover Cleveland": {
       "party": " Democratic",
       "vp": "Thomas Hendricks",
@@ -699,7 +699,7 @@
       "percent_popular_votes": "48.2%"
     }
   },
-  "1880 Presidential Election": {
+  "1880": {
     "James A. Garfield": {
       "party": " Republican",
       "vp": "Chester A. Arthur",
@@ -717,7 +717,7 @@
       "percent_popular_votes": "48.2%"
     }
   },
-  "1876 Presidential Election": {
+  "1876": {
     "Rutherford B. Hayes": {
       "party": " Republican",
       "vp": "William Wheeler",
@@ -735,7 +735,7 @@
       "percent_popular_votes": "51.0%"
     }
   },
-  "1872 Presidential Election": {
+  "1872": {
     "Ulysses S. Grant": {
       "party": " Republican",
       "vp": "Henry Wilson",
@@ -753,7 +753,7 @@
       "percent_popular_votes": "43.8%"
     }
   },
-  "1868 Presidential Election": {
+  "1868": {
     "Ulysses S. Grant": {
       "party": " Republican",
       "vp": "Schuyler Colfax",
@@ -771,7 +771,7 @@
       "percent_popular_votes": "47.3%"
     }
   },
-  "1864 Presidential Election": {
+  "1864": {
     "Abraham Lincoln": {
       "party": " Republican",
       "vp": "Andrew Johnson",
@@ -789,7 +789,7 @@
       "percent_popular_votes": "44.9%"
     }
   },
-  "1860 Presidential Election": {
+  "1860": {
     "Abraham Lincoln": {
       "party": " Republican",
       "vp": "Hannibal Hamlin",
@@ -823,7 +823,7 @@
       "percent_popular_votes": "29.5%"
     }
   },
-  "1856 Presidential Election": {
+  "1856": {
     "James Buchanan": {
       "party": " Democratic",
       "vp": "John C. Breckinridge",
@@ -849,7 +849,7 @@
       "percent_popular_votes": " 21.6%"
     }
   },
-  "1852 Presidential Election": {
+  "1852": {
     "Franklin Pierce": {
       "party": " Democratic",
       "vp": "William R. King",
@@ -875,7 +875,7 @@
       "percent_popular_votes": " 4.9%"
     }
   },
-  "1848 Presidential Election": {
+  "1848": {
     "Zachary Taylor": {
       "party": " Whig",
       "vp": "Millard Fillmore",
@@ -901,7 +901,7 @@
       "percent_popular_votes": " 10.1%"
     }
   },
-  "1844 Presidential Election": {
+  "1844": {
     "James K. Polk": {
       "party": " Democratic",
       "vp": "George M. Dallas",
@@ -919,7 +919,7 @@
       "percent_popular_votes": "48.1%"
     }
   },
-  "1840 Presidential Election": {
+  "1840": {
     "William Henry Harrison": {
       "party": " Whig",
       "vp": "John Tyler",
@@ -937,7 +937,7 @@
       "percent_popular_votes": "46.8%"
     }
   },
-  "1836 Presidential Election": {
+  "1836": {
     "Martin Van Buren": {
       "party": " Democratic",
       "vp": "Richard Johnson",
@@ -979,7 +979,7 @@
       "percent_popular_votes": "0%"
     }
   },
-  "1832 Presidential Election": {
+  "1832": {
     "Andrew Jackson": {
       "party": " Democratic",
       "vp": "Martin Van Buren",
@@ -1013,7 +1013,7 @@
       "percent_popular_votes": " 7.8%"
     }
   },
-  "1828 Presidential Election": {
+  "1828": {
     "Andrew Jackson": {
       "party": " Democratic",
       "vp": "John C. Calhoun",
@@ -1031,7 +1031,7 @@
       "percent_popular_votes": "43.6%"
     }
   },
-  "1824 Presidential Election": {
+  "1824": {
     "Andrew Jackson": {
       "party": " Democratic-Republican",
       "vp": "John C. Calhoun",
@@ -1065,7 +1065,7 @@
       "percent_popular_votes": " 13.0%"
     }
   },
-  "1820 Presidential Election": {
+  "1820": {
     "James Monroe": {
       "party": " Democratic-Republican",
       "vp": "Daniel D. Tompkins",
@@ -1083,7 +1083,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1816 Presidential Election": {
+  "1816": {
     "James Monroe": {
       "party": " Democratic-Republican",
       "vp": "Daniel D. Tompkins",
@@ -1101,7 +1101,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1812 Presidential Election": {
+  "1812": {
     "James Madison": {
       "party": " Democratic-Republican",
       "vp": "Elbridge Gerry",
@@ -1119,7 +1119,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1808 Presidential Election": {
+  "1808": {
     "James Madison": {
       "party": " Democratic-Republican",
       "vp": "George Clinton",
@@ -1137,7 +1137,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1804 Presidential Election": {
+  "1804": {
     "Thomas Jefferson": {
       "party": " Democratic-Republican",
       "vp": "George Clinton",
@@ -1155,7 +1155,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1800 Presidential Election": {
+  "1800": {
     "Thomas Jefferson": {
       "party": " Democratic-Republican",
       "vp": "",
@@ -1173,7 +1173,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1796 Presidential Election": {
+  "1796": {
     "John Adams": {
       "party": " Federalist",
       "vp": "",
@@ -1191,7 +1191,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1792 Presidential Election": {
+  "1792": {
     "George Washington": {
       "party": " unofficially Federalist",
       "vp": "",
@@ -1201,7 +1201,7 @@
       "percent_popular_votes": ""
     }
   },
-  "1789 Presidential Election": {
+  "1789": {
     "George Washington": {
       "party": " unofficially Federalist",
       "vp": "",
