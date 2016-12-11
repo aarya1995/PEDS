@@ -55,6 +55,9 @@ task :get_polls => :environment do
 	# polls should now contain all polling data
 	# puts polls
 
+	# populate polls table using the polls hash
+	
+
 	# pretty print polls results
 	json = polls.to_json
 	pretty_json = JSON.parse(json)

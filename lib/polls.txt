@@ -1,5 +1,5 @@
 1936
-Franklin Roosevelt, Alfred Landon
+Franklin D. Roosevelt, Alfred Landon
 July 1936
 49% 45%
 August 1936
@@ -17,7 +17,7 @@ Actual result
 61%	37%
 ==============
 1940
-Franklin Roosevelt, Wendell Willkie
+Franklin D. Roosevelt, Wendell L. Willkie
 July 1940	
 48%	42%
 44%	43%
@@ -34,7 +34,7 @@ Actual result
 55%	45%
 ==============
 1944
-Franklin Roosevelt, Thomas Dewey
+Franklin D. Roosevelt, Thomas E. Dewey
 March 1944	
 55%	41%
 53%	42%
@@ -66,7 +66,7 @@ Actual result
 53%	46%
 ==============
 1948
-Harry Truman, Thomas Dewey, Henry Wallace, Strom Thurmond
+Harry S Truman, Thomas E. Dewey, Henry A. Wallace, Strom Thurmond
 December 1947	
 46%	41%	7% 0%
 January 1948	
@@ -103,7 +103,7 @@ Actual result
 50%	45%	2% 2%
 ==============
 1952
-Dwight Eisenhower, Adlai Stevenson
+Dwight D. Eisenhower, Adlai Stevenson
 June 1952	
 59%	31%
 July 1952	
@@ -122,7 +122,7 @@ Actual result
 55%	44%
 ==============
 1956
-Dwight Eisenhower, Adlai Stevenson
+Dwight D. Eisenhower, Adlai Stevenson
 December 1955
 61%	35%
 January 1956	
@@ -163,7 +163,7 @@ Actual result
 57%	42%
 ==============
 1960
-John F. Kennedy, Richard Nixon
+John F. Kennedy, Richard M. Nixon
 December 1959	
 43%	48%
 January 1960	
@@ -227,7 +227,7 @@ Actual result
 61%	38%
 ==============
 1968
-Richard Nixon, Hubert Humphrey, George Wallace
+Richard M. Nixon, Hubert Humphrey, George Wallace
 April 1968
 43%	34%	9%
 May	1968
@@ -252,7 +252,7 @@ Actual result
 43%	43%	14%
 ==============
 1972
-Richard Nixon, George McGovern
+Richard M. Nixon, George McGovern
 May	1972
 53%	34%
 June 1972	
@@ -273,7 +273,7 @@ Actual result
 61%	38%
 ==============
 1976
-Jimmy Carter, Gerald Ford
+Jimmy Carter, Gerald R. Ford
 March 1976
 47%	42%
 48%	46%
@@ -301,7 +301,7 @@ Actual result
 50%	48%
 ==============
 1980
-Ronald Reagan, Jimmy Carter, John B. Anderson
+Ronald Reagan, Jimmy Carter, John Anderson
 December 1979	
 33%	62% 0%
 January 1980	
@@ -437,7 +437,7 @@ Actual result
 53%	46%
 ==============
 1992
-Bill Clinton, George Bush, Ross Perot
+William J. Clinton, George Bush, Henry Ross Perot
 March 1992
 25%	44%	24%
 April 1992	
@@ -483,7 +483,7 @@ Actual result
 43%	37%	19%
 ==============
 1996
-Bill Clinton, Bob Dole, Ross Perot
+William J. Clinton, Robert Dole, Henry Ross Perot
 January 1996	
 43%	39%	16%
 February 1996
@@ -542,7 +542,7 @@ Actual result
 49%	41%	8%
 ==============
 2000
-George W. Bush, Al Gore, Ralph Nader
+George W. Bush, Albert Gore, Ralph Nader
 April 2000
 47%	41%	4%
 May	2000
