@@ -10,6 +10,9 @@ task :grab_nominee_data => :environment do
 	require 'open-uri'
 	require 'json'
 
+
+	url = "http://www.presidency.ucsb.edu/showelection.php?year=1936"
+	doc = Nokogiri::HTML(open(url))
 	# start benchmark
 	puts Time.now
 

@@ -1,0 +1,1214 @@
+{
+  "2016": {
+    "Hillary Clinton": {
+      "party": " Democratic",
+      "vp": "Tim Kaine",
+      "electoral_votes": "232",
+      "percent_electoral_votes": "43.1%",
+      "popular_votes": "65,400,601",
+      "percent_popular_votes": "48.2%"
+    },
+    "Donald Trump": {
+      "party": " Republican",
+      "vp": "Mike Pence",
+      "electoral_votes": "306",
+      "percent_electoral_votes": "56.9%",
+      "popular_votes": "62,768,131",
+      "percent_popular_votes": "46.2%"
+    },
+    "Gary Johnson": {
+      "party": " Libertarian",
+      "vp": "William Weld",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "--",
+      "popular_votes": "4,472,340",
+      "percent_popular_votes": "3.3%"
+    },
+    "Jill Stein": {
+      "party": " Green",
+      "vp": "Ajamu Baraka",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "--",
+      "popular_votes": "1,440,635",
+      "percent_popular_votes": "1.1%"
+    }
+  },
+  "2012": {
+    "Barack Obama": {
+      "party": " Democratic",
+      "vp": "Joseph Biden",
+      "electoral_votes": "332",
+      "percent_electoral_votes": "61.7%",
+      "popular_votes": "65,899,660 ",
+      "percent_popular_votes": "51.1%"
+    },
+    "Mitt Romney": {
+      "party": " Republican",
+      "vp": "Paul Ryan",
+      "electoral_votes": "206",
+      "percent_electoral_votes": "38.3%",
+      "popular_votes": "60,932,152",
+      "percent_popular_votes": "47.2%"
+    }
+  },
+  "2008": {
+    "Barack Obama": {
+      "party": " Democratic",
+      "vp": "Joseph Biden",
+      "electoral_votes": "365",
+      "percent_electoral_votes": "67.8%",
+      "popular_votes": "69,456,897",
+      "percent_popular_votes": "52.9%"
+    },
+    "John McCain": {
+      "party": " Republican",
+      "vp": "Sarah Palin",
+      "electoral_votes": "173",
+      "percent_electoral_votes": "32.2%",
+      "popular_votes": "59,934,814",
+      "percent_popular_votes": "45.7%"
+    }
+  },
+  "2004": {
+    "George W. Bush": {
+      "party": " Republican",
+      "vp": "Richard Cheney",
+      "electoral_votes": "286",
+      "percent_electoral_votes": "53.2%",
+      "popular_votes": "62,040,610",
+      "percent_popular_votes": "50.7%"
+    },
+    "John Kerry": {
+      "party": " Democratic",
+      "vp": "John Edwards",
+      "electoral_votes": "251",
+      "percent_electoral_votes": "46.7%",
+      "popular_votes": "59,028,444",
+      "percent_popular_votes": "48.3%"
+    }
+  },
+  "2000": {
+    "George W. Bush": {
+      "party": " Republican",
+      "vp": "Richard Cheney",
+      "electoral_votes": "271",
+      "percent_electoral_votes": "50.4%",
+      "popular_votes": "50,455,156",
+      "percent_popular_votes": "47.9%"
+    },
+    "Albert Gore": {
+      "party": " Democratic",
+      "vp": "Joseph Lieberman",
+      "electoral_votes": "266",
+      "percent_electoral_votes": "49.4%",
+      "popular_votes": "50,992,335",
+      "percent_popular_votes": "48.4%"
+    },
+    "Ralph Nader": {
+      "party": " Green",
+      "vp": "Winona LaDuke",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "2,882,738",
+      "percent_popular_votes": " 2.7%"
+    }
+  },
+  "1996": {
+    "William J. Clinton": {
+      "party": " Democratic",
+      "vp": "Albert Gore",
+      "electoral_votes": "379",
+      "percent_electoral_votes": "70.4%",
+      "popular_votes": "47,402,357",
+      "percent_popular_votes": "49.2%"
+    },
+    "Robert Dole": {
+      "party": " Republican",
+      "vp": "Jack Kemp",
+      "electoral_votes": "159",
+      "percent_electoral_votes": "29.6%",
+      "popular_votes": "39,198,755",
+      "percent_popular_votes": "40.7%"
+    },
+    "Henry Ross Perot": {
+      "party": " Reform",
+      "vp": "Pat Choate",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "8,085,402",
+      "percent_popular_votes": " 8.4%"
+    }
+  },
+  "1992": {
+    "William J. Clinton": {
+      "party": " Democratic",
+      "vp": "Albert Gore",
+      "electoral_votes": "370",
+      "percent_electoral_votes": "68.8%",
+      "popular_votes": "44,909,326",
+      "percent_popular_votes": "43.0%"
+    },
+    "George Bush": {
+      "party": " Republican",
+      "vp": "Dan Quayle",
+      "electoral_votes": "168",
+      "percent_electoral_votes": "31.2%",
+      "popular_votes": "39,103,882",
+      "percent_popular_votes": "37.4%"
+    },
+    "Henry Ross Perot": {
+      "party": " Independent",
+      "vp": "James Stockdale",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "19,741,657",
+      "percent_popular_votes": " 18.9%"
+    }
+  },
+  "1988": {
+    "George Bush": {
+      "party": " Republican",
+      "vp": "Dan Quayle",
+      "electoral_votes": "426",
+      "percent_electoral_votes": "79.2%",
+      "popular_votes": "48,886,097",
+      "percent_popular_votes": "53.4%"
+    },
+    "Michael Dukakis": {
+      "party": " Democratic",
+      "vp": "Lloyd Bentsen",
+      "electoral_votes": "111",
+      "percent_electoral_votes": "20.6%",
+      "popular_votes": "41,809,074",
+      "percent_popular_votes": "45.6%"
+    }
+  },
+  "1984": {
+    "Ronald Reagan": {
+      "party": " Republican",
+      "vp": "George Bush",
+      "electoral_votes": "525",
+      "percent_electoral_votes": "97.6%",
+      "popular_votes": "54,455,075",
+      "percent_popular_votes": "58.8%"
+    },
+    "Walter Mondale": {
+      "party": " Democratic",
+      "vp": "Geraldine Ferraro",
+      "electoral_votes": "13",
+      "percent_electoral_votes": "2.4%",
+      "popular_votes": "37,577,185",
+      "percent_popular_votes": "40.6%"
+    }
+  },
+  "1980": {
+    "Ronald Reagan": {
+      "party": " Republican",
+      "vp": "George Bush",
+      "electoral_votes": "489",
+      "percent_electoral_votes": "90.9%",
+      "popular_votes": "43,904,153",
+      "percent_popular_votes": "50.7%"
+    },
+    "Jimmy Carter": {
+      "party": " Democratic",
+      "vp": "Walter Mondale",
+      "electoral_votes": "49",
+      "percent_electoral_votes": "9.1%",
+      "popular_votes": "35,483,883",
+      "percent_popular_votes": "41.0%"
+    },
+    "John Anderson": {
+      "party": " Independent",
+      "vp": "Patrick Lucey",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "5,720,060",
+      "percent_popular_votes": " 6.6%"
+    }
+  },
+  "1976": {
+    "Jimmy Carter": {
+      "party": " Democratic",
+      "vp": "Walter Mondale",
+      "electoral_votes": "297",
+      "percent_electoral_votes": "55.2%",
+      "popular_votes": "40,830,763",
+      "percent_popular_votes": "50.1%"
+    },
+    "Gerald R. Ford": {
+      "party": " Republican",
+      "vp": "Robert Dole",
+      "electoral_votes": "240",
+      "percent_electoral_votes": "44.6%",
+      "popular_votes": "39,147,793",
+      "percent_popular_votes": "48.0%"
+    }
+  },
+  "1972": {
+    "Richard M. Nixon": {
+      "party": " Republican",
+      "vp": "Spiro Agnew",
+      "electoral_votes": "520",
+      "percent_electoral_votes": "96.7%",
+      "popular_votes": "47,169,911",
+      "percent_popular_votes": "60.7%"
+    },
+    "George McGovern": {
+      "party": " Democratic",
+      "vp": "Sargent Shriver",
+      "electoral_votes": "17",
+      "percent_electoral_votes": "3.2%",
+      "popular_votes": "29,170,383",
+      "percent_popular_votes": "37.5%"
+    }
+  },
+  "1968": {
+    "Richard M. Nixon": {
+      "party": " Republican",
+      "vp": "Spiro Agnew",
+      "electoral_votes": "301",
+      "percent_electoral_votes": "55.9%",
+      "popular_votes": "31,785,480",
+      "percent_popular_votes": "43.4%"
+    },
+    "Hubert Humphrey": {
+      "party": " Democratic",
+      "vp": " Edmund Muskie",
+      "electoral_votes": "191",
+      "percent_electoral_votes": "35.5%",
+      "popular_votes": "31,275,166",
+      "percent_popular_votes": "42.7%"
+    },
+    "George Wallace": {
+      "party": " American Independent",
+      "vp": "Curtis LeMay",
+      "electoral_votes": "45",
+      "percent_electoral_votes": "8.4%",
+      "popular_votes": "9,906,473",
+      "percent_popular_votes": " 13.5%"
+    }
+  },
+  "1964": {
+    "Lyndon B. Johnson": {
+      "party": " Democratic",
+      "vp": "Hubert H. Humphrey",
+      "electoral_votes": "486",
+      "percent_electoral_votes": "90.3%",
+      "popular_votes": "43,129,566 ",
+      "percent_popular_votes": "61.1%"
+    },
+    "Barry Goldwater": {
+      "party": " Republican",
+      "vp": "William E. Miller",
+      "electoral_votes": "52",
+      "percent_electoral_votes": "9.7%",
+      "popular_votes": "27,178,188",
+      "percent_popular_votes": "38.5%"
+    }
+  },
+  "1960": {
+    "John F. Kennedy": {
+      "party": " Democratic",
+      "vp": "Lyndon B. Johnson",
+      "electoral_votes": "303",
+      "percent_electoral_votes": "56.4%",
+      "popular_votes": "34,226,731 ",
+      "percent_popular_votes": "49.7%"
+    },
+    "Richard M. Nixon": {
+      "party": " Republican",
+      "vp": "Henry Cabot Lodge",
+      "electoral_votes": "219",
+      "percent_electoral_votes": "40.8%",
+      "popular_votes": "34,108,157",
+      "percent_popular_votes": "49.5%"
+    },
+    "Harry F. Byrd": {
+      "party": " Democratic",
+      "vp": "Strom Thurmond",
+      "electoral_votes": "15",
+      "percent_electoral_votes": "2.8%",
+      "popular_votes": "0",
+      "percent_popular_votes": "0%"
+    }
+  },
+  "1956": {
+    "Dwight D. Eisenhower": {
+      "party": " Republican",
+      "vp": "Richard M. Nixon",
+      "electoral_votes": "457",
+      "percent_electoral_votes": "86.1%",
+      "popular_votes": "35,590,472",
+      "percent_popular_votes": "57.4%"
+    },
+    "Adlai Stevenson": {
+      "party": " Democratic",
+      "vp": "Estes Kefauver",
+      "electoral_votes": "73",
+      "percent_electoral_votes": "13.7%",
+      "popular_votes": "26,022,752",
+      "percent_popular_votes": "42.0%"
+    }
+  },
+  "1952": {
+    "Dwight D. Eisenhower": {
+      "party": " Republican",
+      "vp": "Richard M. Nixon",
+      "electoral_votes": "442",
+      "percent_electoral_votes": "83.2%",
+      "popular_votes": "33,777,945 ",
+      "percent_popular_votes": "54.9%"
+    },
+    "Adlai Stevenson": {
+      "party": " Democratic",
+      "vp": "John Sparkman",
+      "electoral_votes": "89",
+      "percent_electoral_votes": "16.8%",
+      "popular_votes": "27,314,992",
+      "percent_popular_votes": "44.4%"
+    }
+  },
+  "1948": {
+    "Harry S Truman": {
+      "party": " Democratic",
+      "vp": "Alben W. Barkley",
+      "electoral_votes": "303",
+      "percent_electoral_votes": "57.1%",
+      "popular_votes": "24,105,810",
+      "percent_popular_votes": "49.5%"
+    },
+    "Thomas E. Dewey": {
+      "party": " Republican",
+      "vp": "Earl Warren",
+      "electoral_votes": "189",
+      "percent_electoral_votes": "35.6%",
+      "popular_votes": "21,970,064",
+      "percent_popular_votes": "45.1%"
+    },
+    "Strom Thurmond": {
+      "party": " States' Rights",
+      "vp": "Fielding Wright",
+      "electoral_votes": "39",
+      "percent_electoral_votes": "7.3%",
+      "popular_votes": "1,169,114",
+      "percent_popular_votes": "2.4%"
+    }
+  },
+  "1944": {
+    "Franklin D. Roosevelt": {
+      "party": " Democratic",
+      "vp": "Harry S Truman",
+      "electoral_votes": "432",
+      "percent_electoral_votes": "81.4%",
+      "popular_votes": "25,612,610",
+      "percent_popular_votes": "53.4%"
+    },
+    "Thomas E. Dewey": {
+      "party": " Republican",
+      "vp": "John W. Bricker",
+      "electoral_votes": "99",
+      "percent_electoral_votes": "18.6%",
+      "popular_votes": "22,014,160",
+      "percent_popular_votes": "45.9%"
+    }
+  },
+  "1940": {
+    "Franklin D. Roosevelt": {
+      "party": " Democratic",
+      "vp": "Henry A. Wallace",
+      "electoral_votes": "449",
+      "percent_electoral_votes": "84.6%",
+      "popular_votes": "27,243,218",
+      "percent_popular_votes": "54.7%"
+    },
+    "Wendell L. Willkie": {
+      "party": " Republican",
+      "vp": "Charles L. McNary",
+      "electoral_votes": "82",
+      "percent_electoral_votes": "15.4%",
+      "popular_votes": "22,334,940",
+      "percent_popular_votes": "44.8%"
+    }
+  },
+  "1936": {
+  },
+  "1932": {
+    "Franklin D. Roosevelt": {
+      "party": " Democratic",
+      "vp": "John Garner",
+      "electoral_votes": "472",
+      "percent_electoral_votes": "88.9%",
+      "popular_votes": "22,818,740",
+      "percent_popular_votes": "57.4%"
+    },
+    "Herbert Hoover": {
+      "party": " Republican",
+      "vp": "Charles Curtis",
+      "electoral_votes": "59",
+      "percent_electoral_votes": "11.1%",
+      "popular_votes": "15,760,425",
+      "percent_popular_votes": "39.6%"
+    }
+  },
+  "1928": {
+    "Herbert Hoover": {
+      "party": " Republican",
+      "vp": "Charles Curtis",
+      "electoral_votes": "444",
+      "percent_electoral_votes": "83.6%",
+      "popular_votes": "21,432,823",
+      "percent_popular_votes": "58.2%"
+    },
+    "Alfred E. Smith": {
+      "party": " Democratic",
+      "vp": "Joseph Robinson",
+      "electoral_votes": "87",
+      "percent_electoral_votes": "16.4%",
+      "popular_votes": "15,004,336",
+      "percent_popular_votes": "40.8%"
+    }
+  },
+  "1924": {
+    "Calvin Coolidge": {
+      "party": " Republican",
+      "vp": "Charles G. Dawes",
+      "electoral_votes": "382",
+      "percent_electoral_votes": "71.9%",
+      "popular_votes": "15,724,310",
+      "percent_popular_votes": "54.0%"
+    },
+    "John W. Davis": {
+      "party": " Democratic",
+      "vp": "Charles W. Bryan",
+      "electoral_votes": "136",
+      "percent_electoral_votes": "25.6%",
+      "popular_votes": "8,386,532",
+      "percent_popular_votes": "28.8%"
+    },
+    "Robert LaFollette": {
+      "party": " Progressive",
+      "vp": "Burton K. Wheeler",
+      "electoral_votes": "13",
+      "percent_electoral_votes": "2.4%",
+      "popular_votes": "4,827,184",
+      "percent_popular_votes": " 16.6%"
+    }
+  },
+  "1920": {
+    "Warren G. Harding": {
+      "party": " Republican",
+      "vp": "Calvin Coolidge",
+      "electoral_votes": "404",
+      "percent_electoral_votes": "76.1%",
+      "popular_votes": "16,151,916",
+      "percent_popular_votes": "60.3%"
+    },
+    "James M. Cox": {
+      "party": " Democratic",
+      "vp": "Franklin D. Roosevelt",
+      "electoral_votes": "127",
+      "percent_electoral_votes": "23.9%",
+      "popular_votes": "9,134,074",
+      "percent_popular_votes": "34.1%"
+    }
+  },
+  "1916": {
+    "Woodrow Wilson": {
+      "party": " Democratic",
+      "vp": "Thomas Marshall",
+      "electoral_votes": "277",
+      "percent_electoral_votes": "52.2%",
+      "popular_votes": "9,126,063",
+      "percent_popular_votes": "49.2%"
+    },
+    "Charles E. Hughes": {
+      "party": " Republican",
+      "vp": "Charles W. Fairbanks",
+      "electoral_votes": "254",
+      "percent_electoral_votes": "47.8%",
+      "popular_votes": "8,547,030",
+      "percent_popular_votes": "46.1%"
+    }
+  },
+  "1912": {
+    "Woodrow Wilson": {
+      "party": " Democratic",
+      "vp": "Thomas R. Marshall",
+      "electoral_votes": "435",
+      "percent_electoral_votes": "81.9%",
+      "popular_votes": "6,294,327",
+      "percent_popular_votes": "41.8%"
+    },
+    "Theodore Roosevelt": {
+      "party": " Progressive",
+      "vp": "Hiram Johnson",
+      "electoral_votes": "88",
+      "percent_electoral_votes": "16.6%",
+      "popular_votes": "4,120,207",
+      "percent_popular_votes": "27.4%"
+    },
+    "William Howard Taft": {
+      "party": " Republican",
+      "vp": "Nicholas Butler",
+      "electoral_votes": "8",
+      "percent_electoral_votes": "1.5%",
+      "popular_votes": "3,486,343",
+      "percent_popular_votes": " 23.2%"
+    },
+    "Eugene V. Debs": {
+      "party": " Socialist",
+      "vp": "Emil Seidel",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "900,370",
+      "percent_popular_votes": "6.0%"
+    }
+  },
+  "1908": {
+    "William Howard Taft": {
+      "party": " Republican",
+      "vp": "James S. Sherman",
+      "electoral_votes": "321",
+      "percent_electoral_votes": "66.5%",
+      "popular_votes": "7,676,598",
+      "percent_popular_votes": "51.6%"
+    },
+    "William Jennings Bryan": {
+      "party": " Democratic",
+      "vp": "John Kern",
+      "electoral_votes": "162",
+      "percent_electoral_votes": "33.5%",
+      "popular_votes": "6,406,874",
+      "percent_popular_votes": "43.0%"
+    }
+  },
+  "1904": {
+    "Theodore Roosevelt": {
+      "party": " Republican",
+      "vp": "Charles Fairbanks",
+      "electoral_votes": "336",
+      "percent_electoral_votes": "70.6%",
+      "popular_votes": "7,625,599",
+      "percent_popular_votes": "56.4%"
+    },
+    "Alton B. Parker": {
+      "party": " Democratic",
+      "vp": "Henry Davis",
+      "electoral_votes": "140",
+      "percent_electoral_votes": "29.4%",
+      "popular_votes": "5,083,501",
+      "percent_popular_votes": "37.6%"
+    }
+  },
+  "1900": {
+    "William McKinley": {
+      "party": " Republican",
+      "vp": "Theodore Roosevelt",
+      "electoral_votes": "292",
+      "percent_electoral_votes": "65.3%",
+      "popular_votes": "7,219,193",
+      "percent_popular_votes": "51.7%"
+    },
+    "William Jennings Bryan": {
+      "party": " Democratic",
+      "vp": "Adlai E. Stevenson",
+      "electoral_votes": "155",
+      "percent_electoral_votes": "34.7%",
+      "popular_votes": "6,357,698",
+      "percent_popular_votes": "45.5%"
+    }
+  },
+  "1896": {
+    "William McKinley": {
+      "party": " Republican",
+      "vp": "Garret Hobart",
+      "electoral_votes": "271",
+      "percent_electoral_votes": "61.0%",
+      "popular_votes": "7,105,076",
+      "percent_popular_votes": "51.1%"
+    },
+    "William Jennings Bryan": {
+      "party": " Democratic",
+      "vp": "Arthur Sewall",
+      "electoral_votes": "176",
+      "percent_electoral_votes": "39.6%",
+      "popular_votes": "6,370,897",
+      "percent_popular_votes": "45.8%"
+    }
+  },
+  "1892": {
+    "Grover Cleveland": {
+      "party": " Democratic",
+      "vp": "Adlai E. Stevenson",
+      "electoral_votes": "277",
+      "percent_electoral_votes": "62.4%",
+      "popular_votes": "5,554,617",
+      "percent_popular_votes": "46.0%"
+    },
+    "Benjamin Harrison": {
+      "party": " Republican",
+      "vp": "Whitelaw Reid",
+      "electoral_votes": "145",
+      "percent_electoral_votes": "32.7%",
+      "popular_votes": "5,186,793",
+      "percent_popular_votes": "43.0%"
+    },
+    "James B. Weaver": {
+      "party": " Populist",
+      "vp": "James Field",
+      "electoral_votes": "22",
+      "percent_electoral_votes": "5.0%",
+      "popular_votes": "1,029,357",
+      "percent_popular_votes": "8.5%"
+    }
+  },
+  "1888": {
+    "Benjamin Harrison": {
+      "party": " Republican",
+      "vp": "Levi Morton",
+      "electoral_votes": "233",
+      "percent_electoral_votes": "58.1%",
+      "popular_votes": "5,449,825",
+      "percent_popular_votes": "47.8%"
+    },
+    "Grover Cleveland": {
+      "party": " Democratic",
+      "vp": "Allen Thurman",
+      "electoral_votes": "168",
+      "percent_electoral_votes": "41.9%",
+      "popular_votes": "5,539,118",
+      "percent_popular_votes": "48.6%"
+    }
+  },
+  "1884": {
+    "Grover Cleveland": {
+      "party": " Democratic",
+      "vp": "Thomas Hendricks",
+      "electoral_votes": "219",
+      "percent_electoral_votes": "54.6%",
+      "popular_votes": "4,915,586",
+      "percent_popular_votes": "48.9%"
+    },
+    "James G. Blane": {
+      "party": " Republican",
+      "vp": "John Logan",
+      "electoral_votes": "182",
+      "percent_electoral_votes": "45.4%",
+      "popular_votes": "4,852,916",
+      "percent_popular_votes": "48.2%"
+    }
+  },
+  "1880": {
+    "James A. Garfield": {
+      "party": " Republican",
+      "vp": "Chester A. Arthur",
+      "electoral_votes": "214",
+      "percent_electoral_votes": "58.0%",
+      "popular_votes": "4,453,611",
+      "percent_popular_votes": "48.3%"
+    },
+    "Winfield S. Hancock": {
+      "party": " Democratic",
+      "vp": "William English",
+      "electoral_votes": "155",
+      "percent_electoral_votes": "42.0%",
+      "popular_votes": "4,445,256",
+      "percent_popular_votes": "48.2%"
+    }
+  },
+  "1876": {
+    "Rutherford B. Hayes": {
+      "party": " Republican",
+      "vp": "William Wheeler",
+      "electoral_votes": "185",
+      "percent_electoral_votes": "50.1%",
+      "popular_votes": "4,033,497",
+      "percent_popular_votes": "48.0%"
+    },
+    "Samuel Tilden": {
+      "party": " Democratic",
+      "vp": "Thomas Hendricks",
+      "electoral_votes": "184",
+      "percent_electoral_votes": "49.9%",
+      "popular_votes": "4,288,191",
+      "percent_popular_votes": "51.0%"
+    }
+  },
+  "1872": {
+    "Ulysses S. Grant": {
+      "party": " Republican",
+      "vp": "Henry Wilson",
+      "electoral_votes": "286",
+      "percent_electoral_votes": "81.9%",
+      "popular_votes": "3,598,468",
+      "percent_popular_votes": "55.6%"
+    },
+    "Horace Greeley": {
+      "party": " Democratic",
+      "vp": "Benjamin Brown",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0.0%",
+      "popular_votes": "2,835,315",
+      "percent_popular_votes": "43.8%"
+    }
+  },
+  "1868": {
+    "Ulysses S. Grant": {
+      "party": " Republican",
+      "vp": "Schuyler Colfax",
+      "electoral_votes": "214",
+      "percent_electoral_votes": "72.8%",
+      "popular_votes": "3,013,650",
+      "percent_popular_votes": "52.7%"
+    },
+    "Horatio Seymour": {
+      "party": " Democratic",
+      "vp": "Francis Blair",
+      "electoral_votes": "80",
+      "percent_electoral_votes": "27.2%",
+      "popular_votes": "2,708,744",
+      "percent_popular_votes": "47.3%"
+    }
+  },
+  "1864": {
+    "Abraham Lincoln": {
+      "party": " Republican",
+      "vp": "Andrew Johnson",
+      "electoral_votes": "212",
+      "percent_electoral_votes": "90.6%",
+      "popular_votes": "2,220,846",
+      "percent_popular_votes": "55.1%"
+    },
+    "George McClellan": {
+      "party": " Democratic",
+      "vp": "George Pendleton",
+      "electoral_votes": "21",
+      "percent_electoral_votes": "9.0%",
+      "popular_votes": "1,809,445",
+      "percent_popular_votes": "44.9%"
+    }
+  },
+  "1860": {
+    "Abraham Lincoln": {
+      "party": " Republican",
+      "vp": "Hannibal Hamlin",
+      "electoral_votes": "180",
+      "percent_electoral_votes": "59.4%",
+      "popular_votes": "1,865,908",
+      "percent_popular_votes": "39.9%"
+    },
+    "John Breckenridge": {
+      "party": " Southern Democratic",
+      "vp": "Joseph Lane",
+      "electoral_votes": "72",
+      "percent_electoral_votes": "23.8%",
+      "popular_votes": "848,019",
+      "percent_popular_votes": "18.1%"
+    },
+    "John Bell": {
+      "party": " Constitutional Union",
+      "vp": "Edward Everett",
+      "electoral_votes": "39",
+      "percent_electoral_votes": "12.9%",
+      "popular_votes": "590,901",
+      "percent_popular_votes": " 12.6%"
+    },
+    "Stephen Douglas": {
+      "party": " Democratic",
+      "vp": "Herschel Johnson",
+      "electoral_votes": "12",
+      "percent_electoral_votes": "4.0%",
+      "popular_votes": "1,380,202",
+      "percent_popular_votes": "29.5%"
+    }
+  },
+  "1856": {
+    "James Buchanan": {
+      "party": " Democratic",
+      "vp": "John C. Breckinridge",
+      "electoral_votes": "174",
+      "percent_electoral_votes": "58.8%",
+      "popular_votes": "1,836,072",
+      "percent_popular_votes": "45.3%"
+    },
+    "John C. Fremont": {
+      "party": " Republican",
+      "vp": "William L. Dayton",
+      "electoral_votes": "114",
+      "percent_electoral_votes": "38.5%",
+      "popular_votes": "1,342,345",
+      "percent_popular_votes": "33.1%"
+    },
+    "Millard Fillmore": {
+      "party": " Whig",
+      "vp": "Andrew Jackson Donelson",
+      "electoral_votes": "8",
+      "percent_electoral_votes": "2.7%",
+      "popular_votes": "873,053",
+      "percent_popular_votes": " 21.6%"
+    }
+  },
+  "1852": {
+    "Franklin Pierce": {
+      "party": " Democratic",
+      "vp": "William R. King",
+      "electoral_votes": "254",
+      "percent_electoral_votes": "85.8%",
+      "popular_votes": "1,607,510",
+      "percent_popular_votes": "50.8%"
+    },
+    "Winfield Scott": {
+      "party": " Whig",
+      "vp": "William Graham",
+      "electoral_votes": "42",
+      "percent_electoral_votes": "14.2%",
+      "popular_votes": "1,386,942",
+      "percent_popular_votes": "43.9%"
+    },
+    "John P. Hale": {
+      "party": " Free Soil",
+      "vp": "George Washington Julian",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "155,210",
+      "percent_popular_votes": " 4.9%"
+    }
+  },
+  "1848": {
+    "Zachary Taylor": {
+      "party": " Whig",
+      "vp": "Millard Fillmore",
+      "electoral_votes": "163",
+      "percent_electoral_votes": "56.2%",
+      "popular_votes": "1,361,393",
+      "percent_popular_votes": "47.3%"
+    },
+    "Lewis Cass": {
+      "party": " Democratic",
+      "vp": "William Butler",
+      "electoral_votes": "127",
+      "percent_electoral_votes": "43.8%",
+      "popular_votes": "1,223,460",
+      "percent_popular_votes": "42.5%"
+    },
+    "Martin Van Buren": {
+      "party": " Free Soil",
+      "vp": "Charles Adams",
+      "electoral_votes": "0",
+      "percent_electoral_votes": "0%",
+      "popular_votes": "291,501",
+      "percent_popular_votes": " 10.1%"
+    }
+  },
+  "1844": {
+    "James K. Polk": {
+      "party": " Democratic",
+      "vp": "George M. Dallas",
+      "electoral_votes": "170",
+      "percent_electoral_votes": "61.8%",
+      "popular_votes": "1,339,494",
+      "percent_popular_votes": "49.5%"
+    },
+    "Henry Clay": {
+      "party": " Whig",
+      "vp": "Theodore Frelinghuysen",
+      "electoral_votes": "105",
+      "percent_electoral_votes": "38.2%",
+      "popular_votes": "1,300,004",
+      "percent_popular_votes": "48.1%"
+    }
+  },
+  "1840": {
+    "William Henry Harrison": {
+      "party": " Whig",
+      "vp": "John Tyler",
+      "electoral_votes": "234",
+      "percent_electoral_votes": "79.6%",
+      "popular_votes": "1,275,390",
+      "percent_popular_votes": "52.9%"
+    },
+    "Martin Van Buren": {
+      "party": " Democratic",
+      "vp": "Richard Johnson",
+      "electoral_votes": "60",
+      "percent_electoral_votes": "20.4%",
+      "popular_votes": "1,128,854",
+      "percent_popular_votes": "46.8%"
+    }
+  },
+  "1836": {
+    "Martin Van Buren": {
+      "party": " Democratic",
+      "vp": "Richard Johnson",
+      "electoral_votes": "170",
+      "percent_electoral_votes": "57.8%",
+      "popular_votes": "764,176",
+      "percent_popular_votes": "50.8%"
+    },
+    "William Henry Harrison": {
+      "party": " Whig",
+      "vp": "Francis P. Granger",
+      "electoral_votes": "73",
+      "percent_electoral_votes": "24.8%",
+      "popular_votes": "550,816",
+      "percent_popular_votes": "36.6%"
+    },
+    "Hugh Lawson White": {
+      "party": " Whig",
+      "vp": "John Tyler",
+      "electoral_votes": "26",
+      "percent_electoral_votes": "8.8%",
+      "popular_votes": "146,107",
+      "percent_popular_votes": " 9.7%"
+    },
+    "Daniel Webster": {
+      "party": " Whig",
+      "vp": "Francis P. Granger",
+      "electoral_votes": "14",
+      "percent_electoral_votes": "4.8%",
+      "popular_votes": "41,201",
+      "percent_popular_votes": "2.7%"
+    },
+    "Willie Person Mangum": {
+      "party": " Whig",
+      "vp": "John Tyler",
+      "electoral_votes": "11",
+      "percent_electoral_votes": "3.7%",
+      "popular_votes": "0",
+      "percent_popular_votes": "0%"
+    }
+  },
+  "1832": {
+    "Andrew Jackson": {
+      "party": " Democratic",
+      "vp": "Martin Van Buren",
+      "electoral_votes": "219",
+      "percent_electoral_votes": "76.0%",
+      "popular_votes": "701,780",
+      "percent_popular_votes": "54.2%"
+    },
+    "Henry Clay": {
+      "party": " National-Republican",
+      "vp": "John Sergeant",
+      "electoral_votes": "49",
+      "percent_electoral_votes": "17.0%",
+      "popular_votes": "484,205",
+      "percent_popular_votes": "37.4%"
+    },
+    "John Floyd": {
+      "party": " Independent",
+      "vp": "Henry Lee",
+      "electoral_votes": "11",
+      "percent_electoral_votes": "3.8%",
+      "popular_votes": "0",
+      "percent_popular_votes": "0%"
+    },
+    "William Wirt": {
+      "party": " Anti-Masonic",
+      "vp": "Amos Ellmaker",
+      "electoral_votes": "7",
+      "percent_electoral_votes": "2.4%",
+      "popular_votes": "100,715",
+      "percent_popular_votes": " 7.8%"
+    }
+  },
+  "1828": {
+    "Andrew Jackson": {
+      "party": " Democratic",
+      "vp": "John C. Calhoun",
+      "electoral_votes": "178",
+      "percent_electoral_votes": "68.2%",
+      "popular_votes": "642,553",
+      "percent_popular_votes": "56.1%"
+    },
+    "John Quincy Adams": {
+      "party": " National-Republican",
+      "vp": "Richard Rush",
+      "electoral_votes": "83",
+      "percent_electoral_votes": "31.8%",
+      "popular_votes": "500,897",
+      "percent_popular_votes": "43.6%"
+    }
+  },
+  "1824": {
+    "Andrew Jackson": {
+      "party": " Democratic-Republican",
+      "vp": "John C. Calhoun",
+      "electoral_votes": "99",
+      "percent_electoral_votes": "37.9%",
+      "popular_votes": "151,271",
+      "percent_popular_votes": "41.3%"
+    },
+    "John Quincy Adams": {
+      "party": " Democratic-Republican",
+      "vp": "John C. Calhoun",
+      "electoral_votes": "84",
+      "percent_electoral_votes": "32.2%",
+      "popular_votes": "113,122",
+      "percent_popular_votes": "30.9%"
+    },
+    "William H. Crawford": {
+      "party": " Democratic-Republican",
+      "vp": "Nathaniel Macon",
+      "electoral_votes": "41",
+      "percent_electoral_votes": "15.7%",
+      "popular_votes": "40,856",
+      "percent_popular_votes": "11.2%"
+    },
+    "Henry Clay": {
+      "party": " Democratic-Republican",
+      "vp": "Nathan Sanford",
+      "electoral_votes": "37",
+      "percent_electoral_votes": "14.2%",
+      "popular_votes": "47,531",
+      "percent_popular_votes": " 13.0%"
+    }
+  },
+  "1820": {
+    "James Monroe": {
+      "party": " Democratic-Republican",
+      "vp": "Daniel D. Tompkins",
+      "electoral_votes": "231",
+      "percent_electoral_votes": "98.3%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "John Quincy Adams": {
+      "party": " Independent",
+      "vp": "none",
+      "electoral_votes": "1",
+      "percent_electoral_votes": "0.4%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1816": {
+    "James Monroe": {
+      "party": " Democratic-Republican",
+      "vp": "Daniel D. Tompkins",
+      "electoral_votes": "183",
+      "percent_electoral_votes": "83.9%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "Rufus King": {
+      "party": " Federalist",
+      "vp": "John Howard",
+      "electoral_votes": "34",
+      "percent_electoral_votes": "15.6%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1812": {
+    "James Madison": {
+      "party": " Democratic-Republican",
+      "vp": "Elbridge Gerry",
+      "electoral_votes": "128",
+      "percent_electoral_votes": "58.7%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "DeWitt Clinton": {
+      "party": " Federalist",
+      "vp": "Jared Ingersoll",
+      "electoral_votes": "89",
+      "percent_electoral_votes": "40.8%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1808": {
+    "James Madison": {
+      "party": " Democratic-Republican",
+      "vp": "George Clinton",
+      "electoral_votes": "122",
+      "percent_electoral_votes": "69.7%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "Charles Pinckney": {
+      "party": " Federalist",
+      "vp": "Rufus King",
+      "electoral_votes": "47",
+      "percent_electoral_votes": "26.9%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1804": {
+    "Thomas Jefferson": {
+      "party": " Democratic-Republican",
+      "vp": "George Clinton",
+      "electoral_votes": "162",
+      "percent_electoral_votes": "92.0%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "Charles Pinckney": {
+      "party": " Federalist",
+      "vp": "Rufus King",
+      "electoral_votes": "14",
+      "percent_electoral_votes": "8.0%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1800": {
+    "Thomas Jefferson": {
+      "party": " Democratic-Republican",
+      "vp": "",
+      "electoral_votes": "73",
+      "percent_electoral_votes": "52.9%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "John Adams": {
+      "party": " Federalist",
+      "vp": "",
+      "electoral_votes": "65",
+      "percent_electoral_votes": "47.1%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1796": {
+    "John Adams": {
+      "party": " Federalist",
+      "vp": "",
+      "electoral_votes": "71",
+      "percent_electoral_votes": "51.1%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    },
+    "Thomas Jefferson": {
+      "party": " Democratic-Republican",
+      "vp": "",
+      "electoral_votes": "68",
+      "percent_electoral_votes": "48.9%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1792": {
+    "George Washington": {
+      "party": " unofficially Federalist",
+      "vp": "",
+      "electoral_votes": "132",
+      "percent_electoral_votes": "100%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  },
+  "1789": {
+    "George Washington": {
+      "party": " unofficially Federalist",
+      "vp": "",
+      "electoral_votes": "69",
+      "percent_electoral_votes": "100%",
+      "popular_votes": "",
+      "percent_popular_votes": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+-Clear empty strings from presidential candidates
+-remove 1 after john quincy adams
+-add change h.ross perot to henry ross perot
+-clear all jr's and sr's from names
+-change sewall/watson to arthur sewall
+-remove 'presedential election'
+-change richard nixon to Richard M. Nixon
+-remove dash in whig-american
+election table data:
+
+-manually convert first election year data removing the extra year 
+-remove weird 1876 data

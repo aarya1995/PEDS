@@ -24,8 +24,9 @@ task :scrape_election_results => :environment do
 	table_elements.shift()
 	winners = []
 	parties = []
+	elections = []
 	table_elements.each do |election_row|
-	
+		election = {}
 		#parsing BIG election table
 		raw_winner_text = election_row.css("td:nth-child(3)").text
 		winner = parse_winner_from_text(raw_winner_text)
@@ -46,16 +47,21 @@ task :scrape_election_results => :environment do
 		raw_electoral_votes = election_html_doc.css("small:nth-child(1)")[0].text
 		raw_turnout = election_html_doc.css(".vevent table tr:nth-child(3) td").text
 		election_duration = parse_election_duration(raw_election_dates)
-		total_electoral_votes = parse_election_eletoral_votes(raw_electoral_votes)
+		election["start_date"]=election_duration.start_date
+		election["end_date"]=election_duration.end_date
 
-		puts parse_voter_turnout(raw_turnout)
+		election["total_electoral_votes"] = parse_election_eletoral_votes(raw_electoral_votes)
+		election["voter_turnout"]=  parse_voter_turnout(raw_turnout)
+		
 		# some possible suggestions for selector gadget -- off by one row for early elections
 		# .vevent tbody tr:nth-child(3) td table tbody tr:nth-child(5)
 
 		# extract popular and electoral votes
-
+		elections.append(election)
 		count = count + 1
 	end
+	
+	File.open('./lib/tasks/election_table_data.json', 'w') { |file| file.write(JSON.generate(elections)) }
 	puts "-----------------"
 	puts parties
 	puts "---------------"
@@ -115,23 +121,14 @@ class ElectionDuration
     attr_accessor :start_date, :end_date
 
 end
-class Person
-	def initialize()
-		@first_name = nil
-		@last_name = nil
-		@middle_initial = nil
-		@birth_date = nil
-		@date_of_death = nil
-	end
-	  attr_accessor :first_name, :last_name, :middle_initial, :birth_date, :date_of_death
-end
-class Election
-	def initialize()
-		@election_duration = nil
-		@total_electoral_votes = 0
-		@total_popular_votes =0
-		@voter_turnout = ""
-	end
 
-	attr_accessor :election_duration,:total_electoral_votes, :total_popular_votes, :voter_turnout
-end
+# class Election
+# 	def initialize()
+# 		@election_duration = nil
+# 		@total_electoral_votes = 0
+# 		@total_popular_votes =0
+# 		@voter_turnout = ""
+# 	end
+
+# 	attr_accessor :election_duration,:total_electoral_votes, :total_popular_votes, :voter_turnout
+# end
