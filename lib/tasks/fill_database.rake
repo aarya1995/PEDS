@@ -8,19 +8,34 @@ task :fill_database => :environment do
 
 	nominees_json = read_json_file("./lib/tasks/clean_data.json")
 	election_json = read_json_file("./lib/tasks/election_table_data.json")
+	non_elected_json = read_json_file("./lib/tasks/non_elected_presidents.json")
 	create_people(nominees_json)
 	compute_total_popular(election_json,nominees_json)
 	create_elections(election_json)
 	create_parties(nominees_json)
 	create_nominees(nominees_json,election_json)
-	#create_presidents()
+	create_presidents()
+	create_non_elected_presidents(non_elected_json)
 end  
 
+def create_non_elected_presidents(non_elected_json)
+	non_elected_json.each{
+		|non_elected_hash|
+		names_arr = parse_out_names(non_elected_hash["name"])
+		person = Person.where(:first_name => names_arr[0], :middle_name => names_arr[1],
+	 :last_name => names_arr[2]).first_or_create()
+		party_str = non_elected_hash["party"].downcase
+		description = non_elected_hash["description"]
+		party_record = Party.where(:party_name => party_str).first
+		President.where(:person_id=>person.id, :party_id => party_record.id, :description=>description).first_or_create()
+	}
+
+end
 def create_presidents()
-	Nominee.all.each do 
+	Nominee.find_each do 
 		|nominee|
 		if(nominee.result=="win")
-			President.where(:person_id=>nominee.person_id,:party_id=>nominee.party_id,:nominee_id => nominee_id ).first_or_create
+			President.where(:person_id=>nominee.person_id,:party_id=>nominee.party_id,:nominee_id => nominee.id ).first_or_create
 		end
 	end
 end

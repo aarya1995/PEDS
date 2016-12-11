@@ -1,0 +1,48 @@
+[  {
+		"name": "John Tyler",
+		"party": "Whig",
+		"description": "Vice President to William Henry Harrison, who died of complications from pneumonia on his 32nd day in office. The first ever non-elected President, Tyler's opponents regularly called him 'His Accidency' and addressed correspondences to him as 'Vice President' or 'Acting President' (letters which he returned unopened). When his term ended in 1845, he did not run for reelection. "
+	},
+	{
+		"name": "Millard Fillmore",
+		"party": "Whig",
+		"description": "Vice President to Zachary Taylor, who died of intestinal illness one year and four months into his term. Though he wanted to run for reelection, Fillmore lost the Whig Party's nomination to General Winfield Scott - who then lost the 1852 Election to Democrat Franklin Pierce."
+	},
+	{
+		"name": "Andrew Johnson",
+		"party": "Democratic",
+		"description": " Vice President to Abraham Lincoln, who was assassinated one month into his second term. In 1868, amidst the high tension of the Radical Reconstruction of the South, Johnson became the first ever US President to be impeached. He was eventually acquitted of all charges and sought the Democratic nomination for the 1868 election, but received only four votes, all from his home state of Tennessee."
+	},
+	{
+		"name": "Chester A. Arthur",
+		"party": "Republican",
+		"description": "Vice President of James Garfield, who was assassinated after six months in office. Though he considered running for a full term in the 1884 Election, Arthur ran only a lackluster campaign due to limited support and his ailing health."
+	},
+	{
+		"name": "Theodore Roosevelt",
+		"party": "Republican",
+		"description": "Vice President of William McKinley, who was assassinated six months into his second term. Considered one of the best US Presidents of all time, Roosevelt easily won a second term in a landslide victory during the 1904 Election. He also had the support of the public during the 1912 primary, but lost the nomination to William Howard Taft, the favorite of GOP party leaders."
+	},
+	{
+		"name": "Calvin Coolidge",
+		"party": "Republican",
+		"description": " Vice President to Warren G. Harding, who died following a respiratory illness after two years and four months in office. When his first term was up, Coolidge easily won the 1924 Election, securing every state outside of the South except for Wisconsin."
+	},
+	{
+		"name": "Harry S Truman",
+		"party": "Democratic",
+		"description": "Vice President to Franklin Delano Roosevelt, who died after 12 years in office, three months into his fourth term. Though Truman's public approval was only 36% at the beginning of 1948, he won the Election that year with 303 electoral votes (over Thomas E. Dewey's 189), securing a second term."
+	},
+	{
+		"name": "Lyndon B. Johnson",
+		"party": "Democratic",
+		"description": "Vice President to John F. Kennedy, who was assassinated after two years and 10 months in office. In the 1964 Election, Johnson won a second term by defeating GOP candidate Barry Goldwater in a landslide, with 486 electoral votes to his 52. "
+	},
+	{
+		"name": "Gerald R. Ford",
+		"party": "Republican",
+		"description": "Vice President to Richard Nixon, who resigned the office one year and seven months into his second term. Notably, Ford, then the House Minority Leader, was chosen as VP by Senate after the resignation of Spiro Agnew, who pleaded no contest to tax evasion in October 1973. To date, Ford remains the only person to assume the roles of both President and Vice President without having been elected by the electoral college."
+	}
+	
+	
+]
