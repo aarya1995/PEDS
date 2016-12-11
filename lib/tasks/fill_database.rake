@@ -13,9 +13,17 @@ task :fill_database => :environment do
 	create_elections(election_json)
 	create_parties(nominees_json)
 	create_nominees(nominees_json,election_json)
-
+	#create_presidents()
 end  
 
+def create_presidents()
+	Nominee.all.each do 
+		|nominee|
+		if(nominee.result=="win")
+			President.where(:person_id=>nominee.person_id,:party_id=>nominee.party_id,:nominee_id => nominee_id ).first_or_create
+		end
+	end
+end
 def create_parties(nominees_json)
 	nominees_json.keys.each{
 		|year_string|
@@ -134,7 +142,7 @@ def compute_total_popular(election_json, nominees_json)
 		matching_nominee_json = nominees_json[end_year]
 		#add the total_popular vote to election has by using the first candidates popular votes and 
 		#percentage of popular vote in the matching nominee_json
-		if(end_year != "1936" and end_year.to_i > 1820)
+		if(end_year.to_i > 1820)
 			nominee_name= matching_nominee_json.keys[0]
 			percent_pop = matching_nominee_json[nominee_name]["percent_popular_votes"]
 			num_pop = matching_nominee_json[nominee_name]["popular_votes"]
@@ -153,7 +161,7 @@ end
 def create_people(nominees_json) 
 	nominees_json.keys.each  do 
 		|year_key|
-		if !year_key.include?("1936")
+		
 			nominees_json[year_key].keys.each do
 				|presidential_nominee_full_name|
 				create_person(presidential_nominee_full_name)
@@ -163,7 +171,7 @@ def create_people(nominees_json)
 				end
 			end
 
-		end
+		
 	end
 end
 
