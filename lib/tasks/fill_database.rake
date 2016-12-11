@@ -119,7 +119,7 @@ def find_election_hash_by_year(election_json,year_string)
 			return election_hash
 		end
 	}
-	retur nil
+	return nil
 end
 def create_elections(election_json)
 	election_json.each{

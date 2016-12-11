@@ -1,5 +1,5 @@
 1936
-Franklin D. Roosevelt, Alfred Landon
+Franklin D. Roosevelt, Alfred M. Landon
 July 1936
 49% 45%
 August 1936
@@ -66,41 +66,41 @@ Actual result
 53%	46%
 ==============
 1948
-Harry S Truman, Thomas E. Dewey, Henry A. Wallace, Strom Thurmond
+Harry S Truman, Thomas E. Dewey, Strom Thurmond
 December 1947	
-46%	41%	7% 0%
+46%	41%	0%
 January 1948	
-46%	41%	7% 0%
+46%	41%	0%
 February 1948	
-39%	47%	7% 0%
+39%	47%	0%
 March 1948
-39%	47%	7% 0%
+39%	47%	0%
 April 1948
-0% 0% 0% 0%
+0% 0% 0%
 May 1948
-0% 0% 0% 0%				
+0% 0% 0%				
 June 1948	
-38%	49%	6% 0%
-37%	48%	5% 0%
+38%	49%	0%
+37%	48%	0%
 July 1948	
-38%	49%	6% 0%
-37%	48%	5% 0%
+38%	49%	0%
+37%	48%	0%
 August 1948	
-37%	48%	4% 2%
-36%	49%	5% 3%
-39%	47%	3% 2%
-39%	47%	3% 2%
-40%	46%	4% 2%
+37%	48%	2%
+36%	49%	3%
+39%	47%	2%
+39%	47%	2%
+40%	46%	2%
 September 1948	
-37%	48%	4% 2%
-36%	49%	5% 3%
-39%	47%	3% 2%
-39%	47%	3% 2%
-40%	46%	4% 2%
+37%	48%	2%
+36%	49%	3%
+39%	47%	2%
+39%	47%	2%
+40%	46%	2%
 October	1948
-45%	50%	4% 2%
+45%	50%	2%
 Actual result	
-50%	45%	2% 2%
+50%	45%	2%
 ==============
 1952
 Dwight D. Eisenhower, Adlai Stevenson
