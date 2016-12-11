@@ -192,6 +192,77 @@ task :grab_links => :environment do
 	puts election_arr
 end
 
+task :grab_population => :environment do
+	puts Time.now
+	count = 0
+	counter = 0
+	population = Hash.new {|h,k| h[k] = Hash.new(&h.default_proc) }
 
+	File.open("lib/population.txt").each do |line|
+		data = line.to_s.strip
+		if count == 6
+			# reset counter to go in increments of 6
+			count = 0
+			counter = counter + 1 # increment the row count
+		end
+
+		if count == 0
+			population[counter]["year"] = data
+		elsif count == 1
+			population[counter]["population"] = data
+		elsif count == 2
+			population[counter]["growth_percent"] = data
+		elsif count == 3
+			population[counter]["annual_change"] = data
+		elsif count == 4
+			population[counter]["data_note"] = data
+		elsif count == 5
+			population[counter]["source_link"] = data
+		end
+
+		count = count + 1
+	end
+
+	# print the hash
+	count2 = 0
+
+	population.each do |k,v|
+		year = v["year"]
+		pop = v["population"]
+		growth = v["growth_percent"]
+		annual_change = v["annual_change"]
+		data_note = v["data_note"]
+		source_link = v["source_link"]
+		
+		year = year[6..year.length] == nil ? "" : year[6..year.length]
+		pop = pop[17..pop.length] == nil ? "" : pop[17..pop.length]
+		growth = growth[16..growth.length] == nil ? "" : growth[16..growth.length]
+		annual_change = annual_change[15..annual_change.length] == nil ? "" : annual_change[15..annual_change.length]
+		data_note = data_note[11..data_note.length] == nil ? "" : data_note[11..data_note.length]
+		source_link = source_link[13..source_link.length] == nil ? "" : source_link[13..source_link.length] 
+		
+
+		puts year
+		puts pop
+		puts growth == "" ? "empty_data" : growth
+		puts annual_change == "" ? "empty_data" : annual_change
+		puts data_note == "" ? "empty_data" : data_note 
+		puts source_link == "" ? "empty_data" : source_link
+		puts ""
+		puts ""
+
+		# create a population record
+		Population.create(:year => year, :us_population => pop, :growth_percent => growth,
+					:annual_change => annual_change, :data_note => data_note, :source_link => source_link)
+
+		count2 = count2 + 1
+	end
+
+	puts "returned data for #{count2} years!"
+
+	puts population[234]
+	
+	puts Time.now
+end
 
 

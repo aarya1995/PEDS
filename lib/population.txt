@@ -1,0 +1,1410 @@
+Year: 2010
+U.S. Population: 310,232,863
+Growth Percent: 1.05
+Annual Change: 3,226,313
+Data Note: estimate
+Source Link: https://www.cia.gov/library/publications/the-world-factbook/geos/us.html
+Year: 2009
+U.S. Population: 307,006,550
+Growth Percent: 0.86
+Annual Change: 2,631,704
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2008
+U.S. Population: 304,374,846
+Growth Percent: 0.93
+Annual Change: 2,794,951
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2007
+U.S. Population: 301,579,895
+Growth Percent: 1.00
+Annual Change: 2,986,683
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2006
+U.S. Population: 298,593,212
+Growth Percent: 0.96
+Annual Change: 2,840,061
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2005
+U.S. Population: 295,753,151
+Growth Percent: 0.92
+Annual Change: 2,707,412
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2004
+U.S. Population: 293,045,739
+Growth Percent: 0.94
+Annual Change: 2,719,321
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2003
+U.S. Population: 290,326,418
+Growth Percent: 0.88
+Annual Change: 2,522,504
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2002
+U.S. Population: 287,803,914
+Growth Percent: 0.95
+Annual Change: 2,722,358
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2001
+U.S. Population: 285,081,556
+Growth Percent: 1.03
+Annual Change: 2,909,599
+Data Note: 
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 2000
+U.S. Population: 282,171,957
+Growth Percent: 3.48
+Annual Change: 9,481,144
+Data Note: data set transition
+Source Link: http://factfinder.census.gov/servlet/DownloadCenterServlet?_ts=296977786179
+Year: 1999
+U.S. Population: 272,690,813
+Growth Percent: 0.89
+Annual Change: 2,392,289
+Data Note: data set transition
+Source Link: http://www.demographia.com/db-uspop1900.htm
+Year: 1998
+U.S. Population: 270,298,524
+Growth Percent: 0.95
+Annual Change: 2,554,929
+Data Note: data set transition
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1997
+U.S. Population: 267,743,595
+Growth Percent: 0.96
+Annual Change: 2,553,801
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1996
+U.S. Population: 265,189,794
+Growth Percent: 0.92
+Annual Change: 2,424,846
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1995
+U.S. Population: 262,764,948
+Growth Percent: 0.95
+Annual Change: 2,475,711
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1994
+U.S. Population: 260,289,237
+Growth Percent: 0.99
+Annual Change: 2,543,134
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1993
+U.S. Population: 257,746,103
+Growth Percent: 1.08
+Annual Change: 2,751,586
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1992
+U.S. Population: 254,994,517
+Growth Percent: 1.14
+Annual Change: 2,867,115
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1991
+U.S. Population: 252,127,402
+Growth Percent: 1.08
+Annual Change: 2,688,690
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1990
+U.S. Population: 249,438,712
+Growth Percent: 1.06
+Annual Change: 2,619,482
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1989
+U.S. Population: 246,819,230
+Growth Percent: 0.95
+Annual Change: 2,320,248
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1988
+U.S. Population: 244,498,982
+Growth Percent: 0.91
+Annual Change: 2,210,064
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1987
+U.S. Population: 242,288,918
+Growth Percent: 0.90
+Annual Change: 2,156,031
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1986
+U.S. Population: 240,132,887
+Growth Percent: 0.93
+Annual Change: 2,209,092
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1985
+U.S. Population: 237,923,795
+Growth Percent: 0.89
+Annual Change: 2,098,893
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1984
+U.S. Population: 235,824,902
+Growth Percent: 0.87
+Annual Change: 2,032,908
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1983
+U.S. Population: 233,791,994
+Growth Percent: 0.92
+Annual Change: 2,127,536
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1982
+U.S. Population: 231,664,458
+Growth Percent: 0.96
+Annual Change: 2,198,744
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1981
+U.S. Population: 229,465,714
+Growth Percent: 0.99
+Annual Change: 2,241,033
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1980
+U.S. Population: 227,224,681
+Growth Percent: 0.96
+Annual Change: 2,169,194
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1979
+U.S. Population: 225,055,487
+Growth Percent: 1.11
+Annual Change: 2,470,942
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1978
+U.S. Population: 222,584,545
+Growth Percent: 1.06
+Annual Change: 2,345,120
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1977
+U.S. Population: 220,239,425
+Growth Percent: 1.01
+Annual Change: 2,204,261
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1976
+U.S. Population: 218,035,164
+Growth Percent: 0.95
+Annual Change: 2,061,965
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1975
+U.S. Population: 215,973,199
+Growth Percent: 0.99
+Annual Change: 2,119,271
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1974
+U.S. Population: 213,853,928
+Growth Percent: 0.92
+Annual Change: 1,945,140
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1973
+U.S. Population: 211,908,788
+Growth Percent: 0.96
+Annual Change: 2,012,767
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1972
+U.S. Population: 209,896,021
+Growth Percent: 1.08
+Annual Change: 2,235,344
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1971
+U.S. Population: 207,660,677
+Growth Percent: 1.27
+Annual Change: 2,608,503
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1970
+U.S. Population: 205,052,174
+Growth Percent: 1.17
+Annual Change: 2,375,228
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1969
+U.S. Population: 202,676,946
+Growth Percent: 0.98
+Annual Change: 1,970,894
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1968
+U.S. Population: 200,706,052
+Growth Percent: 1.00
+Annual Change: 1,993,996
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1967
+U.S. Population: 198,712,056
+Growth Percent: 1.09
+Annual Change: 2,151,718
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1966
+U.S. Population: 196,560,338
+Growth Percent: 1.16
+Annual Change: 2,257,375
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1965
+U.S. Population: 194,302,963
+Growth Percent: 1.26
+Annual Change: 2,414,172
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1964
+U.S. Population: 191,888,791
+Growth Percent: 1.40
+Annual Change: 2,646,993
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1963
+U.S. Population: 189,241,798
+Growth Percent: 1.45
+Annual Change: 2,704,061
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1962
+U.S. Population: 186,537,737
+Growth Percent: 1.55
+Annual Change: 2,846,256
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1961
+U.S. Population: 183,691,481
+Growth Percent: 1.67
+Annual Change: 3,020,323
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1960
+U.S. Population: 180,671,158
+Growth Percent: 1.60
+Annual Change: 2,841,530
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1959
+U.S. Population: 177,829,628
+Growth Percent: 1.69
+Annual Change: 2,947,724
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1958
+U.S. Population: 174,881,904
+Growth Percent: 1.68
+Annual Change: 2,897,774
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1957
+U.S. Population: 171,984,130
+Growth Percent: 1.82
+Annual Change: 3,081,099
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1956
+U.S. Population: 168,903,031
+Growth Percent: 1.79
+Annual Change: 2,971,829
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1955
+U.S. Population: 165,931,202
+Growth Percent: 1.78
+Annual Change: 2,905,348
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1954
+U.S. Population: 163,025,854
+Growth Percent: 1.77
+Annual Change: 2,841,662
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1953
+U.S. Population: 160,184,192
+Growth Percent: 1.67
+Annual Change: 2,631,452
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1952
+U.S. Population: 157,552,740
+Growth Percent: 1.73
+Annual Change: 2,674,851
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1951
+U.S. Population: 154,877,889
+Growth Percent: 1.71
+Annual Change: 2,606,472
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1950
+U.S. Population: 152,271,417
+Growth Percent: 2.07
+Annual Change: 3,083,287
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1949
+U.S. Population: 149,188,130
+Growth Percent: 1.74
+Annual Change: 2,556,828
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1948
+U.S. Population: 146,631,302
+Growth Percent: 1.74
+Annual Change: 2,505,231
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1947
+U.S. Population: 144,126,071
+Growth Percent: 1.94
+Annual Change: 2,737,505
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1946
+U.S. Population: 141,388,566
+Growth Percent: 1.04
+Annual Change: 1,460,401
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1945
+U.S. Population: 139,928,165
+Growth Percent: 1.11
+Annual Change: 1,530,820
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1944
+U.S. Population: 138,397,345
+Growth Percent: 1.21
+Annual Change: 1,657,992
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1943
+U.S. Population: 136,739,353
+Growth Percent: 1.39
+Annual Change: 1,879,800
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1942
+U.S. Population: 134,859,553
+Growth Percent: 1.09
+Annual Change: 1,457,082
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1941
+U.S. Population: 133,402,471
+Growth Percent: 0.97
+Annual Change: 1,280,025
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1940
+U.S. Population: 132,122,446
+Growth Percent: 0.95
+Annual Change: 1,242,728
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1939
+U.S. Population: 130,879,718
+Growth Percent: 0.81
+Annual Change: 1,054,779
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1938
+U.S. Population: 129,824,939
+Growth Percent: 0.78
+Annual Change: 1,000,110
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1937
+U.S. Population: 128,824,829
+Growth Percent: 0.60
+Annual Change: 771,649
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1936
+U.S. Population: 128,053,180
+Growth Percent: 0.63
+Annual Change: 802,948
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1935
+U.S. Population: 127,250,232
+Growth Percent: 0.69
+Annual Change: 876,459
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1934
+U.S. Population: 126,373,773
+Growth Percent: 0.63
+Annual Change: 795,010
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1933
+U.S. Population: 125,578,763
+Growth Percent: 0.59
+Annual Change: 738,292
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1932
+U.S. Population: 124,840,471
+Growth Percent: 0.65
+Annual Change: 800,823
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1931
+U.S. Population: 124,039,648
+Growth Percent: 0.78
+Annual Change: 962,907
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1930
+U.S. Population: 123,076,741
+Growth Percent: 1.08
+Annual Change: 1,309,741
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1929
+U.S. Population: 121,767,000
+Growth Percent: 1.04
+Annual Change: 1,258,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1928
+U.S. Population: 120,509,000
+Growth Percent: 1.24
+Annual Change: 1,474,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1927
+U.S. Population: 119,035,000
+Growth Percent: 1.40
+Annual Change: 1,638,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1926
+U.S. Population: 117,397,000
+Growth Percent: 1.35
+Annual Change: 1,568,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1925
+U.S. Population: 115,829,000
+Growth Percent: 1.51
+Annual Change: 1,720,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1924
+U.S. Population: 114,109,000
+Growth Percent: 1.93
+Annual Change: 2,162,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1923
+U.S. Population: 111,947,000
+Growth Percent: 1.72
+Annual Change: 1,898,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1922
+U.S. Population: 110,049,000
+Growth Percent: 1.39
+Annual Change: 1,511,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1921
+U.S. Population: 108,538,000
+Growth Percent: 1.95
+Annual Change: 2,077,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1920
+U.S. Population: 106,461,000
+Growth Percent: 1.86
+Annual Change: 1,947,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1919
+U.S. Population: 104,514,000
+Growth Percent: 1.27
+Annual Change: 1,306,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1918
+U.S. Population: 103,208,000
+Growth Percent: -0.06
+Annual Change: -60,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1917
+U.S. Population: 103,268,000
+Growth Percent: 1.28
+Annual Change: 1,307,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1916
+U.S. Population: 101,961,000
+Growth Percent: 1.41
+Annual Change: 1,415,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1915
+U.S. Population: 100,546,000
+Growth Percent: 1.45
+Annual Change: 1,435,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1914
+U.S. Population: 99,111,000
+Growth Percent: 1.94
+Annual Change: 1,886,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1913
+U.S. Population: 97,225,000
+Growth Percent: 1.98
+Annual Change: 1,890,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1912
+U.S. Population: 95,335,000
+Growth Percent: 1.57
+Annual Change: 1,472,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1911
+U.S. Population: 93,863,000
+Growth Percent: 1.58
+Annual Change: 1,456,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1910
+U.S. Population: 92,407,000
+Growth Percent: 2.12
+Annual Change: 1,917,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1909
+U.S. Population: 90,490,000
+Growth Percent: 2.01
+Annual Change: 1,780,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1908
+U.S. Population: 88,710,000
+Growth Percent: 1.96
+Annual Change: 1,702,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1907
+U.S. Population: 87,008,000
+Growth Percent: 1.82
+Annual Change: 1,558,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1906
+U.S. Population: 85,450,000
+Growth Percent: 1.94
+Annual Change: 1,628,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1905
+U.S. Population: 83,822,000
+Growth Percent: 2.02
+Annual Change: 1,656,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1904
+U.S. Population: 82,166,000
+Growth Percent: 1.90
+Annual Change: 1,534,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1903
+U.S. Population: 80,632,000
+Growth Percent: 1.86
+Annual Change: 1,469,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1902
+U.S. Population: 79,163,000
+Growth Percent: 2.04
+Annual Change: 1,579,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1901
+U.S. Population: 77,584,000
+Growth Percent: 1.96
+Annual Change: 1,490,000
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1900
+U.S. Population: 76,094,000
+Growth Percent: 1.91
+Annual Change: 1,425,835
+Data Note: 
+Source Link: http://www.npg.org/facts/us_historical_pops.htm
+Year: 1899
+U.S. Population: 74,668,165
+Growth Percent: 1.91
+Annual Change: 1,399,118
+Data Note: gap data fill calc
+Source Link:
+Year: 1898
+U.S. Population: 73,269,047
+Growth Percent: 1.91
+Annual Change: 1,372,902
+Data Note: gap data fill calc
+Source Link:
+Year: 1897
+U.S. Population: 71,896,145
+Growth Percent: 1.91
+Annual Change: 1,347,177
+Data Note: gap data fill calc
+Source Link:
+Year: 1896
+U.S. Population: 70,548,968
+Growth Percent: 1.91
+Annual Change: 1,321,933
+Data Note: gap data fill calc
+Source Link:
+Year: 1895
+U.S. Population: 69,227,035
+Growth Percent: 1.91
+Annual Change: 1,297,163
+Data Note: gap data fill calc
+Source Link:
+Year: 1894
+U.S. Population: 67,929,871
+Growth Percent: 1.91
+Annual Change: 1,272,857
+Data Note: gap data fill calc
+Source Link:
+Year: 1893
+U.S. Population: 66,657,014
+Growth Percent: 1.91
+Annual Change: 1,249,007
+Data Note: gap data fill calc
+Source Link:
+Year: 1892
+U.S. Population: 65,408,007
+Growth Percent: 1.91
+Annual Change: 1,225,603
+Data Note: gap data fill calc
+Source Link:
+Year: 1891
+U.S. Population: 64,182,404
+Growth Percent: 1.91
+Annual Change: 1,202,638
+Data Note: gap data fill calc
+Source Link:
+Year: 1890
+U.S. Population: 62,979,766
+Growth Percent: 2.30
+Annual Change: 1,413,619
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1889
+U.S. Population: 61,566,147
+Growth Percent: 2.30
+Annual Change: 1,381,890
+Data Note: gap data fill calc
+Source Link:
+Year: 1888
+U.S. Population: 60,184,258
+Growth Percent: 2.30
+Annual Change: 1,350,872
+Data Note: gap data fill calc
+Source Link:
+Year: 1887
+U.S. Population: 58,833,385
+Growth Percent: 2.30
+Annual Change: 1,320,551
+Data Note: gap data fill calc
+Source Link:
+Year: 1886
+U.S. Population: 57,512,834
+Growth Percent: 2.30
+Annual Change: 1,290,911
+Data Note: gap data fill calc
+Source Link:
+Year: 1885
+U.S. Population: 56,221,923
+Growth Percent: 2.30
+Annual Change: 1,261,935
+Data Note: gap data fill calc
+Source Link:
+Year: 1884
+U.S. Population: 54,959,988
+Growth Percent: 2.30
+Annual Change: 1,233,610
+Data Note: gap data fill calc
+Source Link:
+Year: 1883
+U.S. Population: 53,726,378
+Growth Percent: 2.30
+Annual Change: 1,205,921
+Data Note: gap data fill calc
+Source Link:
+Year: 1882
+U.S. Population: 52,520,456
+Growth Percent: 2.30
+Annual Change: 1,178,854
+Data Note: gap data fill calc
+Source Link:
+Year: 1881
+U.S. Population: 51,341,603
+Growth Percent: 2.30
+Annual Change: 1,152,394
+Data Note: gap data fill calc
+Source Link:
+Year: 1880
+U.S. Population: 50,189,209
+Growth Percent: 2.67
+Annual Change: 1,305,834
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1879
+U.S. Population: 48,883,375
+Growth Percent: 2.67
+Annual Change: 1,271,858
+Data Note: gap data fill calc
+Source Link:
+Year: 1878
+U.S. Population: 47,611,517
+Growth Percent: 2.67
+Annual Change: 1,238,767
+Data Note: gap data fill calc
+Source Link:
+Year: 1877
+U.S. Population: 46,372,750
+Growth Percent: 2.67
+Annual Change: 1,206,536
+Data Note: gap data fill calc
+Source Link:
+Year: 1876
+U.S. Population: 45,166,214
+Growth Percent: 2.67
+Annual Change: 1,175,145
+Data Note: gap data fill calc
+Source Link:
+Year: 1875
+U.S. Population: 43,991,069
+Growth Percent: 2.67
+Annual Change: 1,144,569
+Data Note: gap data fill calc
+Source Link:
+Year: 1874
+U.S. Population: 42,846,500
+Growth Percent: 2.67
+Annual Change: 1,114,790
+Data Note: gap data fill calc
+Source Link:
+Year: 1873
+U.S. Population: 41,731,710
+Growth Percent: 2.67
+Annual Change: 1,085,785
+Data Note: gap data fill calc
+Source Link:
+Year: 1872
+U.S. Population: 40,645,925
+Growth Percent: 2.67
+Annual Change: 1,057,535
+Data Note: gap data fill calc
+Source Link:
+Year: 1871
+U.S. Population: 39,588,390
+Growth Percent: 2.67
+Annual Change: 1,030,019
+Data Note: gap data fill calc
+Source Link:
+Year: 1870
+U.S. Population: 38,558,371
+Growth Percent: 2.06
+Annual Change: 778,572
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1869
+U.S. Population: 37,779,799
+Growth Percent: 2.06
+Annual Change: 762,850
+Data Note: gap data fill calc
+Source Link:
+Year: 1868
+U.S. Population: 37,016,949
+Growth Percent: 2.06
+Annual Change: 747,447
+Data Note: gap data fill calc
+Source Link:
+Year: 1867
+U.S. Population: 36,269,502
+Growth Percent: 2.06
+Annual Change: 732,354
+Data Note: gap data fill calc
+Source Link:
+Year: 1866
+U.S. Population: 35,537,148
+Growth Percent: 2.06
+Annual Change: 717,567
+Data Note: gap data fill calc
+Source Link:
+Year: 1865
+U.S. Population: 34,819,581
+Growth Percent: 2.06
+Annual Change: 703,078
+Data Note: gap data fill calc
+Source Link:
+Year: 1864
+U.S. Population: 34,116,504
+Growth Percent: 2.06
+Annual Change: 688,881
+Data Note: gap data fill calc
+Source Link:
+Year: 1863
+U.S. Population: 33,427,622
+Growth Percent: 2.06
+Annual Change: 674,971
+Data Note: gap data fill calc
+Source Link:
+Year: 1862
+U.S. Population: 32,752,651
+Growth Percent: 2.06
+Annual Change: 661,342
+Data Note: gap data fill calc
+Source Link:
+Year: 1861
+U.S. Population: 32,091,309
+Growth Percent: 2.06
+Annual Change: 647,988
+Data Note: gap data fill calc
+Source Link:
+Year: 1860
+U.S. Population: 31,443,321
+Growth Percent: 3.09
+Annual Change: 942,667
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1859
+U.S. Population: 30,500,654
+Growth Percent: 3.09
+Annual Change: 914,406
+Data Note: gap data fill calc
+Source Link:
+Year: 1858
+U.S. Population: 29,586,249
+Growth Percent: 3.09
+Annual Change: 886,992
+Data Note: gap data fill calc
+Source Link:
+Year: 1857
+U.S. Population: 28,699,257
+Growth Percent: 3.09
+Annual Change: 860,400
+Data Note: gap data fill calc
+Source Link:
+Year: 1856
+U.S. Population: 27,838,857
+Growth Percent: 3.09
+Annual Change: 834,605
+Data Note: gap data fill calc
+Source Link:
+Year: 1855
+U.S. Population: 27,004,251
+Growth Percent: 3.09
+Annual Change: 809,584
+Data Note: gap data fill calc
+Source Link:
+Year: 1854
+U.S. Population: 26,194,668
+Growth Percent: 3.09
+Annual Change: 785,313
+Data Note: gap data fill calc
+Source Link:
+Year: 1853
+U.S. Population: 25,409,355
+Growth Percent: 3.09
+Annual Change: 761,769
+Data Note: gap data fill calc
+Source Link:
+Year: 1852
+U.S. Population: 24,647,586
+Growth Percent: 3.09
+Annual Change: 738,931
+Data Note: gap data fill calc
+Source Link:
+Year: 1851
+U.S. Population: 23,908,654
+Growth Percent: 3.09
+Annual Change: 716,778
+Data Note: gap data fill calc
+Source Link:
+Year: 1850
+U.S. Population: 23,191,876
+Growth Percent: 3.11
+Annual Change: 700,074
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1849
+U.S. Population: 22,491,802
+Growth Percent: 3.11
+Annual Change: 678,941
+Data Note: gap data fill calc
+Source Link:
+Year: 1848
+U.S. Population: 21,812,861
+Growth Percent: 3.11
+Annual Change: 658,447
+Data Note: gap data fill calc
+Source Link:
+Year: 1847
+U.S. Population: 21,154,414
+Growth Percent: 3.11
+Annual Change: 638,571
+Data Note: gap data fill calc
+Source Link:
+Year: 1846
+U.S. Population: 20,515,843
+Growth Percent: 3.11
+Annual Change: 619,295
+Data Note: gap data fill calc
+Source Link:
+Year: 1845
+U.S. Population: 19,896,549
+Growth Percent: 3.11
+Annual Change: 600,601
+Data Note: gap data fill calc
+Source Link:
+Year: 1844
+U.S. Population: 19,295,948
+Growth Percent: 3.11
+Annual Change: 582,471
+Data Note: gap data fill calc
+Source Link:
+Year: 1843
+U.S. Population: 18,713,477
+Growth Percent: 3.11
+Annual Change: 564,888
+Data Note: gap data fill calc
+Source Link:
+Year: 1842
+U.S. Population: 18,148,589
+Growth Percent: 3.11
+Annual Change: 547,836
+Data Note: gap data fill calc
+Source Link:
+Year: 1841
+U.S. Population: 17,600,752
+Growth Percent: 3.11
+Annual Change: 531,299
+Data Note: gap data fill calc
+Source Link:
+Year: 1840
+U.S. Population: 17,069,453
+Growth Percent: 2.87
+Annual Change: 475,798
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1839
+U.S. Population: 16,593,655
+Growth Percent: 2.87
+Annual Change: 462,535
+Data Note: gap data fill calc
+Source Link:
+Year: 1838
+U.S. Population: 16,131,120
+Growth Percent: 2.87
+Annual Change: 449,642
+Data Note: gap data fill calc
+Source Link:
+Year: 1837
+U.S. Population: 15,681,478
+Growth Percent: 2.87
+Annual Change: 437,109
+Data Note: gap data fill calc
+Source Link:
+Year: 1836
+U.S. Population: 15,244,369
+Growth Percent: 2.87
+Annual Change: 424,925
+Data Note: gap data fill calc
+Source Link:
+Year: 1835
+U.S. Population: 14,819,444
+Growth Percent: 2.87
+Annual Change: 413,080
+Data Note: gap data fill calc
+Source Link:
+Year: 1834
+U.S. Population: 14,406,364
+Growth Percent: 2.87
+Annual Change: 401,566
+Data Note: gap data fill calc
+Source Link:
+Year: 1833
+U.S. Population: 14,004,798
+Growth Percent: 2.87
+Annual Change: 390,373
+Data Note: gap data fill calc
+Source Link:
+Year: 1832
+U.S. Population: 13,614,425
+Growth Percent: 2.87
+Annual Change: 379,491
+Data Note: gap data fill calc
+Source Link:
+Year: 1831
+U.S. Population: 13,234,933
+Growth Percent: 2.87
+Annual Change: 368,913
+Data Note: gap data fill calc
+Source Link:
+Year: 1830
+U.S. Population: 12,866,020
+Growth Percent: 2.93
+Annual Change: 366,293
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1829
+U.S. Population: 12,499,727
+Growth Percent: 2.93
+Annual Change: 355,865
+Data Note: gap data fill calc
+Source Link:
+Year: 1828
+U.S. Population: 12,143,863
+Growth Percent: 2.93
+Annual Change: 345,733
+Data Note: gap data fill calc
+Source Link:
+Year: 1827
+U.S. Population: 11,798,130
+Growth Percent: 2.93
+Annual Change: 335,890
+Data Note: gap data fill calc
+Source Link:
+Year: 1826
+U.S. Population: 11,462,239
+Growth Percent: 2.93
+Annual Change: 326,328
+Data Note: gap data fill calc
+Source Link:
+Year: 1825
+U.S. Population: 11,135,912
+Growth Percent: 2.93
+Annual Change: 317,037
+Data Note: gap data fill calc
+Source Link:
+Year: 1824
+U.S. Population: 10,818,875
+Growth Percent: 2.93
+Annual Change: 308,011
+Data Note: gap data fill calc
+Source Link:
+Year: 1823
+U.S. Population: 10,510,864
+Growth Percent: 2.93
+Annual Change: 299,242
+Data Note: gap data fill calc
+Source Link:
+Year: 1822
+U.S. Population: 10,211,622
+Growth Percent: 2.93
+Annual Change: 290,723
+Data Note: gap data fill calc
+Source Link:
+Year: 1821
+U.S. Population: 9,920,899
+Growth Percent: 2.93
+Annual Change: 282,446
+Data Note: gap data fill calc
+Source Link:
+Year: 1820
+U.S. Population: 9,638,453
+Growth Percent: 2.90
+Annual Change: 271,901
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1819
+U.S. Population: 9,366,552
+Growth Percent: 2.90
+Annual Change: 264,231
+Data Note: gap data fill calc
+Source Link:
+Year: 1818
+U.S. Population: 9,102,321
+Growth Percent: 2.90
+Annual Change: 256,777
+Data Note: gap data fill calc
+Source Link:
+Year: 1817
+U.S. Population: 8,845,544
+Growth Percent: 2.90
+Annual Change: 249,533
+Data Note: gap data fill calc
+Source Link:
+Year: 1816
+U.S. Population: 8,596,011
+Growth Percent: 2.90
+Annual Change: 242,494
+Data Note: gap data fill calc
+Source Link:
+Year: 1815
+U.S. Population: 8,353,517
+Growth Percent: 2.90
+Annual Change: 235,653
+Data Note: gap data fill calc
+Source Link:
+Year: 1814
+U.S. Population: 8,117,864
+Growth Percent: 2.90
+Annual Change: 229,005
+Data Note: gap data fill calc
+Source Link:
+Year: 1813
+U.S. Population: 7,888,859
+Growth Percent: 2.90
+Annual Change: 222,545
+Data Note: gap data fill calc
+Source Link:
+Year: 1812
+U.S. Population: 7,666,314
+Growth Percent: 2.90
+Annual Change: 216,267
+Data Note: gap data fill calc
+Source Link:
+Year: 1811
+U.S. Population: 7,450,047
+Growth Percent: 2.90
+Annual Change: 210,166
+Data Note: gap data fill calc
+Source Link:
+Year: 1810
+U.S. Population: 7,239,881
+Growth Percent: 3.15
+Annual Change: 221,203
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1809
+U.S. Population: 7,018,678
+Growth Percent: 3.15
+Annual Change: 214,444
+Data Note: gap data fill calc
+Source Link:
+Year: 1808
+U.S. Population: 6,804,234
+Growth Percent: 3.15
+Annual Change: 207,892
+Data Note: gap data fill calc
+Source Link:
+Year: 1807
+U.S. Population: 6,596,341
+Growth Percent: 3.15
+Annual Change: 201,541
+Data Note: gap data fill calc
+Source Link:
+Year: 1806
+U.S. Population: 6,394,801
+Growth Percent: 3.15
+Annual Change: 195,383
+Data Note: gap data fill calc
+Source Link:
+Year: 1805
+U.S. Population: 6,199,418
+Growth Percent: 3.15
+Annual Change: 189,413
+Data Note: gap data fill calc
+Source Link:
+Year: 1804
+U.S. Population: 6,010,005
+Growth Percent: 3.15
+Annual Change: 183,626
+Data Note: gap data fill calc
+Source Link:
+Year: 1803
+U.S. Population: 5,826,379
+Growth Percent: 3.15
+Annual Change: 178,016
+Data Note: gap data fill calc
+Source Link:
+Year: 1802
+U.S. Population: 5,648,363
+Growth Percent: 3.15
+Annual Change: 172,577
+Data Note: gap data fill calc
+Source Link:
+Year: 1801
+U.S. Population: 5,475,787
+Growth Percent: 3.15
+Annual Change: 167,304
+Data Note: gap data fill calc
+Source Link:
+Year: 1800
+U.S. Population: 5,308,483
+Growth Percent: 3.05
+Annual Change: 157,336
+Data Note: 
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspop.htm
+Year: 1799
+U.S. Population: 5,151,147
+Growth Percent: 3.05
+Annual Change: 152,673
+Data Note: gap data fill calc
+Source Link:
+Year: 1798
+U.S. Population: 4,998,475
+Growth Percent: 3.05
+Annual Change: 148,148
+Data Note: gap data fill calc
+Source Link:
+Year: 1797
+U.S. Population: 4,850,327
+Growth Percent: 3.05
+Annual Change: 143,757
+Data Note: gap data fill calc
+Source Link:
+Year: 1796
+U.S. Population: 4,706,570
+Growth Percent: 3.05
+Annual Change: 139,496
+Data Note: gap data fill calc
+Source Link:
+Year: 1795
+U.S. Population: 4,567,074
+Growth Percent: 3.05
+Annual Change: 135,362
+Data Note: gap data fill calc
+Source Link:
+Year: 1794
+U.S. Population: 4,431,713
+Growth Percent: 3.05
+Annual Change: 131,350
+Data Note: gap data fill calc
+Source Link:
+Year: 1793
+U.S. Population: 4,300,363
+Growth Percent: 3.05
+Annual Change: 127,457
+Data Note: gap data fill calc
+Source Link:
+Year: 1792
+U.S. Population: 4,172,906
+Growth Percent: 3.05
+Annual Change: 123,679
+Data Note: gap data fill calc
+Source Link:
+Year: 1791
+U.S. Population: 4,049,227
+Growth Percent: 3.05
+Annual Change: 120,013
+Data Note: gap data fill calc
+Source Link:
+Year: 1790
+U.S. Population: 3,929,214
+Growth Percent: 3.28
+Annual Change: 124,872
+Data Note: First Census
+Source Link: http://geography.about.com/od/obtainpopulationdata/a/uspopulation.htm
+Year: 1789
+U.S. Population: 3,804,342
+Growth Percent: 3.28
+Annual Change: 120,903
+Data Note: gap data fill calc
+Source Link:
+Year: 1788
+U.S. Population: 3,683,439
+Growth Percent: 3.28
+Annual Change: 117,061
+Data Note: gap data fill calc
+Source Link:
+Year: 1787
+U.S. Population: 3,566,378
+Growth Percent: 3.28
+Annual Change: 113,341
+Data Note: gap data fill calc
+Source Link:
+Year: 1786
+U.S. Population: 3,453,037
+Growth Percent: 3.28
+Annual Change: 109,739
+Data Note: gap data fill calc
+Source Link:
+Year: 1785
+U.S. Population: 3,343,298
+Growth Percent: 3.28
+Annual Change: 106,251
+Data Note: gap data fill calc
+Source Link:
+Year: 1784
+U.S. Population: 3,237,047
+Growth Percent: 3.28
+Annual Change: 102,875
+Data Note: gap data fill calc
+Source Link:
+Year: 1783
+U.S. Population: 3,134,172
+Growth Percent: 3.28
+Annual Change: 99,605
+Data Note: gap data fill calc
+Source Link:
+Year: 1782
+U.S. Population: 3,034,567
+Growth Percent: 3.28
+Annual Change: 96,440
+Data Note: gap data fill calc
+Source Link:
+Year: 1781
+U.S. Population: 2,938,127
+Growth Percent: 3.28
+Annual Change: 93,375
+Data Note: gap data fill calc
+Source Link:
+Year: 1780
+U.S. Population: 2,844,752
+Growth Percent: 3.28
+Annual Change: 90,407
+Data Note: gap data fill calc
+Source Link:
+Year: 1779
+U.S. Population: 2,754,345
+Growth Percent: 3.28
+Annual Change: 87,534
+Data Note: gap data fill calc
+Source Link:
+Year: 1778
+U.S. Population: 2,666,811
+Growth Percent: 3.28
+Annual Change: 84,752
+Data Note: gap data fill calc
+Source Link:
+Year: 1777
+U.S. Population: 2,582,059
+Growth Percent: 3.28
+Annual Change: 82,059
+Data Note: gap data fill calc
+Source Link:
+Year: 1776
+U.S. Population: 2,500,000
+Growth Percent: 
+Annual Change: 
+Data Note: Census Estimate
+Source Link: http://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb10-ff12.html
