@@ -432,7 +432,8 @@
     }
   },
   "1936": {
-  },
+    "Franklin D. Roosevelt": { "party": " Democratic", "vp": "John Garner", "electoral_votes": "523", "percent_electoral_votes": "98.5%", "popular_votes": "27,750,866", "percent_popular_votes": "60.8%" }, "Alfred M. Landon": { "party": " Republican", "vp": "Frank Knox", "electoral_votes": "8", "percent_electoral_votes": "1.5%", "popular_votes": "16,679,683", "percent_popular_votes": "36.5%" } 
+    },
   "1932": {
     "Franklin D. Roosevelt": {
       "party": " Democratic",
