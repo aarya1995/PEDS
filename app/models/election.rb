@@ -32,7 +32,7 @@ class Election < ActiveRecord::Base
 		return create_display_nominations(Person.where(id: person_id).first)
 	end
 
-	def self.results_by_name(id)
+	def self.results_by_name(full_name)
 		names_arr = parse_out_names(full_name)
 		person =Person.where(:first_name => names_arr[0], :middle_name => names_arr[1],
 	 :last_name => names_arr[2]).first()
