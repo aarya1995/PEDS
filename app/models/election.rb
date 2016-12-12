@@ -87,6 +87,54 @@ class Election < ActiveRecord::Base
 		return disp_nominees
 	end
 
+	def self.party_history(party_name)
+		#for each party election_result map the election id to the result
+		#if a nominee comes in 
+		results_hash = {}
+
+		party_record = Party.where(party_name: party_name).first
+
+		party_details = Display_Party.new
+		party_details.name = party_record.party_name
+		num_participated= 0
+		num_won = 0
+		nominees=Nominee.where(party_id: party_record.id).to_a
+		nominees.each{
+			|nominee|
+			if(results_hash[nominee.election_id]==nil)
+				num_participated+=1
+				party_election_result = Party_Election_Result.new
+				party_election_result.year = Election.where(id: nominee.election_id).first.end_date.split(",")[1].strip
+				party_election_result.num_electoral_votes = nominee.num_electoral_votes.to_i
+				party_election_result.is_winner = nominee.result=="win"
+
+				results_hash[nominee.election_id] = party_election_result
+			else
+				party_election_result = results_hash[nominee.election_id]
+				party_election_result.num_electoral_votes+= nominee.num_electoral_votes.to_i
+				if(nominee.result=="win")
+					party_election_result.is_winner = true
+				end
+			end
+		}
+
+		results_hash.keys.each{
+			|election_id|
+			party_details.results_by_year<<results_hash[election_id]
+			num_participated+=1
+			if(results_hash[election_id].is_winner)
+				num_won+=1
+			end
+		}
+		party_details.win_rate= ((num_won.to_f/num_participated.to_f)*100).to_s
+		if(party_details.win_rate.length > 3)
+			party_details.win_rate = party_details.win_rate[0..party_details.win_rate.index(".")+2]
+			party_details.win_rate = party_details.win_rate+"%"
+		end
+		return party_details
+		
+	end
+
 	def self.results_by_year(year_str)
 		found = false
 		disp_nominees = []
@@ -111,6 +159,28 @@ class Election < ActiveRecord::Base
 		else
 			return disp_nominees
 		end
+	end
+
+
+	class Display_Party
+		def initialize()
+			@name=""
+			@win_rate = ""
+			@results_by_year = []
+		end
+
+		attr_accessor :name,  :win_rate, :results_by_year
+	end
+
+	class Party_Election_Result
+
+		def initialize()
+			@year = ""
+			@num_electoral_votes=0
+			
+			@is_winner = false
+		end
+		attr_accessor :year, :num_electoral_votes,:is_winner
 	end
 	class Display_Nominee
 		def initialize()
