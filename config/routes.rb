@@ -1,4 +1,16 @@
 Rails.application.routes.draw do
+  get 'query/election_year'
+
+  get 'query/presidential_candidates'
+
+  get 'query/reelected_non_contiguous'
+
+  get 'query/swing_candidates'
+
+  get 'query/party_history'
+
+  get 'election_year_query/results'
+
   get 'static_pages/index'
 
   # The priority is based upon order of creation: first created -> highest priority.

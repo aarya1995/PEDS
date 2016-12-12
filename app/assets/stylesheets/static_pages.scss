@@ -3,6 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 body {
 	font-family: "Lato", "Open-Sans", sans-serif;
+	background-color: #FFFFFF;
 }
 
 .navbar-brand {
@@ -19,7 +20,7 @@ body {
 	background: url('/assets/world_map.png') #242636 no-repeat center top;
 	padding-top: 40px;
 	color: #FFFFFF;
-	height: 400px;
+	height: 410px;
 	margin-bottom: 0px;
 
 	h1 {
@@ -112,3 +113,33 @@ ul.unstyled {
 .election_year {
 	display: none;
 }
+
+.presidential_candidates {
+	display: none;
+}
+
+.non-contiguous {
+	display: none;
+}
+
+.swing_candidates {
+	display: none;
+}
+
+.party_history {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
