@@ -18,7 +18,24 @@ class Election < ActiveRecord::Base
 		return landslides_elections
 
 	end
-
+	def self.top_ten_turnout
+	
+		sorted_elecs= Election.order(:voter_turnout).to_a
+		top_ten ={}
+		i=0
+		sorted_elecs.each{
+			|election|
+			if(election.voter_turnout=="" or election.voter_turnout==nil)
+				break
+			else
+				i+=1
+			end
+		}
+		for j in (i-10..i-1)
+			top_ten[sorted_elecs[j].end_date.split(",")[1].strip] = sorted_elecs[j].voter_turnout
+		end
+		return top_ten
+	end
 	def self.find_non_elected
 
 		results = []
