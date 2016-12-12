@@ -2,6 +2,84 @@ class Election < ActiveRecord::Base
 	has_many :nominees
 	belongs_to :president
 
+
+	def self.find_landslide
+		landslides_elections = []
+		winners = Nominee.where(result: "win").to_a
+		winners.each{
+			|winner|
+			election = Election.where(id:winner.election_id).first
+
+			popular_percentage = 100*((winner.num_popular_votes.delete(",").to_f)/(election.total_popular_votes.to_i))
+			if(popular_percentage>=60)
+				landslides_elections<< results_by_year(election.end_date.split(",")[1].strip)
+			end
+		}
+		return landslides_elections
+
+	end
+	def self.top_ten_turnout
+	
+		sorted_elecs= Election.order(:voter_turnout).to_a
+		top_ten ={}
+		i=0
+		sorted_elecs.each{
+			|election|
+			if(election.voter_turnout=="" or election.voter_turnout==nil)
+				break
+			else
+				i+=1
+			end
+		}
+		for j in (i-10..i-1)
+			top_ten[sorted_elecs[j].end_date.split(",")[1].strip] = sorted_elecs[j].voter_turnout
+		end
+		return top_ten
+	end
+	def self.find_non_elected
+
+		results = []
+		President.find_each{
+			|president|
+			if(president.nominee_id == nil )
+				p1 = Person.where(id: president.person_id).first
+				full_name = ""
+				if(p1.middle_name == nil or p1.middle_name.length == 0)
+
+					full_name =  p1.first_name + " "+p1.last_name
+				else
+					full_name= (p1.first_name + " " +p1.middle_name + " " + p1.last_name)
+				end
+				results << president
+			end
+		}
+		return results
+
+	end
+
+	def self.find_one_term
+		results = []
+		included = {}
+		President.find_each{
+			|president|
+			p1 = Person.where(id: president.person_id).first
+			full_name = ""
+			if(p1.middle_name == nil or p1.middle_name.length == 0)
+
+				full_name =  p1.first_name + " "+p1.last_name
+			else
+				full_name= (p1.first_name + " " +p1.middle_name + " " + p1.last_name)
+			end
+			if(included[president.person_id])
+				results.delete(full_name)
+				
+			else
+				included[president.person_id] = true
+				results<<full_name
+			end
+		}
+		return results
+	end
 	def self.create_display_nominee(nominee, election)
 		p1 = Person.where(id: nominee.person_id).first
 
