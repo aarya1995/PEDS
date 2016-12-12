@@ -136,6 +136,8 @@ def find_election_hash_by_year(election_json,year_string)
 	}
 	return nil
 end
+
+
 def create_elections(election_json)
 	election_json.each{
 		|election_hash|
@@ -171,6 +173,10 @@ def compute_total_popular(election_json, nominees_json)
  		
 	end
 
+	
+end
+
+def elected_non_contigous 
 	
 end
 def create_people(nominees_json) 
