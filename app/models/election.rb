@@ -38,6 +38,20 @@ class Election < ActiveRecord::Base
 	 :last_name => names_arr[2]).first()
 		return create_display_nominations(person)
 	end
+	
+	# this method returns a Person id by full_name
+	def self.find_person_by_name(full_name)
+		name_arr = full_name.split(" ")
+		person_id = -1
+		if name_arr.length == 2 # no middle name
+			person_id = Person.where(:first_name => name_arr[0], :last_name => name_arr[1]).first.id
+		elsif name_arr.length == 3
+			person_id = Person.where(:first_name => name_arr[0], :middle_name => name_arr[1], 
+				:last_name => name_arr[2]).first.id
+		end
+
+		return person_id
+	end
 
 	def self.create_display_nominations(person)
 		nominations = Nominee.where(person_id: person.id).to_a
