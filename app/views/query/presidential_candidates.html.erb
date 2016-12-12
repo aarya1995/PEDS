@@ -1,9 +1,66 @@
 <%= render 'partials/navbar' %>
 
-<div class="container">
+<div class="container query-container">
 	<div class="row">
-		<div class="col-md-6">
+		<div class="col-md-10">
 			<h1> Showing data for <%= Person.getFullName(@candidate) %></h1>
+			<hr>
+			
+			<h3 style="margin-top: 4%;">All elections that <%= Person.getFullName(@candidate) %> participated in</h3>
+			<table class="table table-bordered table-hover table-striped nominee-results2">
+				<thead class="query-thead">
+					<tr>
+						<th>Election year</th>
+						<th>Party</th>
+						<th>Popular votes (%)</th>
+						<th>Electoral votes</th>
+						<th>Is winner?</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @result.each do |candidate| %>
+					<tr>
+						<td><%= candidate.year %></td>
+						<td><%= candidate.party %></td>
+						<td><%= candidate.popular_percentage %></td>
+						<td><%= candidate.num_elec_votes %></td>
+						<td><%= candidate.is_winner %></td>
+					</tr>
+					<% end %>
+				</tbody>
+			</table>
+			
+			<h1 style="">Historical poll data for <%= Person.getFullName(@candidate) %>:</h1>
+			<hr>
+				<% @result.each do |candidate| %>
+					<% if candidate.year.to_i >= 1936 %>
+						<h4 style="margin-bottom: 2%;">Polls for election of <%= candidate.year %></h4>
+						<table class="table table-bordered table-hover table-striped poll-table">
+							<thead class="query-thead2">
+								<tr>
+									<th>Date poll taken</th>
+									<th>Polling result (%)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<% candidate.polls.each do |poll| %>
+									<% if poll.date_poll_taken == "Actual result" %>
+										<tr class="success">
+											<td><%= poll.date_poll_taken %></td>
+											<td><%= poll.polling_percentage %></td>
+										</tr>
+									<% else %>
+										<tr>
+											<td><%= poll.date_poll_taken %></td>
+											<td><%= poll.polling_percentage %></td>
+										</tr>
+									<% end %>
+								<% end %>
+							</tbody>
+						</table>
+					<% end %>
+				<% end %>
+
 			<a class="btn btn-primary btn-md" href="<%= root_path %>" role="button">Try a different query!</a>
 		</div>
 	</div>
