@@ -78,7 +78,7 @@ class Election < ActiveRecord::Base
 		disp_nominee.party = Party.where(id: nominee.party).first.party_name
 		disp_nominee.is_winner = nominee.result =="win"
 		disp_nominee.num_elec_votes = nominee.num_electoral_votes
-
+		disp_nominee.year = election.end_date.split(",")[1].strip
 		popular_percentage = 100*((nominee.num_popular_votes.delete(",").to_f)/(election.total_popular_votes.to_i))
 		pop_perc_s = popular_percentage.to_s
 		if(pop_perc_s.length > 3)
@@ -256,8 +256,9 @@ class Election < ActiveRecord::Base
 			@is_winner = false
 			@num_elec_votes = 0
 			@polls = []
+			@year = ""
 		end
 
-		attr_accessor :full_name,:party, :popular_percentage,:is_winner ,:num_elec_votes , :polls 
+		attr_accessor :year ,:full_name,:party, :popular_percentage,:is_winner ,:num_elec_votes , :polls 
 	end
 end

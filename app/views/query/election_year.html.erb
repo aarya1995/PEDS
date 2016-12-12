@@ -1,10 +1,70 @@
 <%= render 'partials/navbar' %>
 
-<div class="container">
+<div class="container query-container">
 	<div class="row">
-		<div class="col-md-6">
-			<h1> Showing results for election of <%= @year %></h1>
-			<a class="btn btn-primary btn-md" href="<%= root_path %>" role="button">Try a different query!</a>
+		<div class="col-md-10">
+			<h1>Showing results for election of <%= @year %></h1>
+			<hr>
+			<table class="table table-bordered table-hover table-striped nominee-results">
+				<thead class="query-thead">
+					<tr>
+						<th>Full name</th>
+						<th>Party</th>
+						<th>Popular votes (%)</th>
+						<th>Electoral votes</th>
+						<th>Is winner?</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @result.each do |candidate| %>
+						<tr>
+							<td><%= candidate.full_name %>
+							<% if candidate.is_winner %>
+								<i class="fa fa-trophy"></i>
+							<% end %>
+							</td>
+							<td><%= candidate.party %></td>
+							<td><%= candidate.popular_percentage %></td>
+							<td><%= candidate.num_elec_votes %></td>
+							<td><%= candidate.is_winner %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+			
+			<% if @year.to_i >= 1936 %>
+			<h1>Show poll results for each candidate:</h1>
+			<hr>
+			<% @result.each do |candidate| %>
+				<h3>Polls for <%= candidate.full_name %></h3>
+					<table class="table table-bordered table-hover table-striped poll-table">
+						<thead class="query-thead2">
+							<tr>
+								<th>Date poll taken</th>
+								<th>Polling result (%)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<% candidate.polls.each do |poll| %>
+								<% if poll.date_poll_taken == "Actual result" %>
+									<tr class="success">
+										<td><%= poll.date_poll_taken %></td>
+										<td><%= poll.polling_percentage %></td>
+									</tr>
+								<% else %>
+									<tr>
+										<td><%= poll.date_poll_taken %></td>
+										<td><%= poll.polling_percentage %></td>
+									</tr>
+								<% end %>
+							<% end %>
+						</tbody>
+					</table>	
+			<% end %>
+			<% else %>
+				<h1>No accurate polling data available for this election</h1>
+			<% end %>
+			<a class="btn btn-primary btn-md try-another" href="<%= root_path %>" role="button">Try a different query!</a>
 		</div>
 	</div>
 </div>
