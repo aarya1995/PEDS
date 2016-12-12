@@ -1,3 +1,114 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+	font-family: "Lato", "Open-Sans", sans-serif;
+}
+
+.navbar-brand {
+	font-weight: 900;
+	color: #222222 !important;
+}
+
+.logo {
+	width: 47px;
+	height: 30px;
+}
+
+.jumbotron {
+	background: url('/assets/world_map.png') #242636 no-repeat center top;
+	padding-top: 40px;
+	color: #FFFFFF;
+	height: 400px;
+	margin-bottom: 0px;
+
+	h1 {
+		font-weight: 700;
+	}
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+/* styling for footer */
+footer {
+    background: #221E1F;
+    color: white;
+    font-size: 12px;
+    padding: 20px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none !important;
+}
+
+footer a:hover {
+	text-decoration: underline !important;
+}
+
+footer p {
+	font-family: 'Open-Sans', sans-serif;
+	font-size: 1.5em;
+	color: white;
+	padding: 5px;
+}
+
+
+ul.unstyled {
+    list-style:none;
+    padding: 0;
+}
+
+.footer-text {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.fa-heart {
+	color: #E74C3C !important;
+}
+
+.fa {
+	font-size: 22px !important;
+}
+/* end styling for footer */
+
+.forms-section {
+	background-color: #FFFFFF;
+}
+
+.forms-container {
+	margin-top: 7%;
+	margin-bottom: 7%;
+}
+
+.form-col {
+	margin-left: 5%;
+}
+
+.query-select {
+	width: 250px;
+}
+
+.btn-success {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.dropdown-group {
+	margin-top: 2%;
+}
+
+.tryit-btn {
+	margin-top: 2%;
+}
+
+.param-select {
+	width: 120px;
+}
+
+.election_year {
+	display: none;
+}
