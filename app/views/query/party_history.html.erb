@@ -1,9 +1,48 @@
 <%= render 'partials/navbar' %>
 
-<div class="container">
+<div class="container query-container">
 	<div class="row">
-		<div class="col-md-6">
-			<h3> Showing historical data for the <%= @party.party_name %> party</h3>
+		<div class="col-md-10">
+			<h1> Showing historical data for the <%= @party.party_name %> party</h1>
+			<hr>
+			<h3>Overview</h3>
+			<table class="table table-bordered table-hover table-striped party-table">
+				<thead class="query-thead">
+					<tr>
+						<th>Win rate (%)</th>
+						<th>Number of elections</th>
+					</tr>
+				</thead>
+				<tbody>
+					<td><%= @result.win_rate %></td>
+					<td><%= @result.results_by_year.count %></td>
+				</tbody>
+			</table>
+
+			<h3>Party performance throughout the elections</h3>
+			<table class="table table-bordered table-hover table-striped party-table2">
+				<thead class="query-thead party-thead">
+					<tr>
+						<th>Election year</th>
+						<th>Total # of electoral votes</th>
+						<th>Party win?</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @result.results_by_year.each do |result| %>
+						<% if result.is_winner %>
+							<tr class="success">
+						<% else %>
+							<tr>
+						<% end %>
+							<td><%= result.year %></td>
+							<td><%= result.num_electoral_votes %></td>
+							<td><%= result.is_winner %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+			
 			<a class="btn btn-primary btn-md" href="<%= root_path %>" role="button">Try a different query!</a>
 		</div>
 	</div>

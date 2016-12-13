@@ -39,7 +39,26 @@ class QueryController < ApplicationController
     @result = Election.find_non_elected()
   end
 
+
   def landslide
     @result =Election.find_landslide()
+  end
+  
+  def served_one_term
+  	@result = Election.find_one_term()
+  end
+
+  def greatest_turnout
+  	@result = Election.top_ten_turnout()
+  	hsh_values = @result.values.reverse
+  	sorted_hsh = {}
+
+  	hsh_values.each do |val|
+  		k = @result.key(val)
+  		sorted_hsh[k] = val
+  	end
+	
+	# return sorted result hash
+  	@result = sorted_hsh
   end
 end

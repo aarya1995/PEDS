@@ -219,7 +219,7 @@ class Election < ActiveRecord::Base
 		results_hash.keys.each{
 			|election_id|
 			party_details.results_by_year<<results_hash[election_id]
-			num_participated+=1
+			
 			if(results_hash[election_id].is_winner)
 				num_won+=1
 			end

@@ -30,7 +30,7 @@
 				</tbody>
 			</table>
 			
-			<h1 style="">Historical poll data for <%= Person.getFullName(@candidate) %>:</h1>
+			<h3 style="">Historical poll data for <%= Person.getFullName(@candidate) %>:</h3>
 			<hr>
 				<% @result.each do |candidate| %>
 					<% if candidate.year.to_i >= 1936 %>

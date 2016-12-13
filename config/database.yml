@@ -7,9 +7,9 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: peds_development
+  database: peds_dev
   pool: 5
-  username: abhasarya
+  username: azam
   password: 
 
 # Warning: The database defined as "test" will be erased and
@@ -18,7 +18,8 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: peds_test
+  database: peds_dev
   pool: 5
-  username: abhasarya
+  username: azam
   password:
+

@@ -30,6 +30,9 @@
 									<option>Presidents who served one term</option>
 									<option value="landslide">Elections won in landslide (> 60% popular votes)</option>
 									<option>Top 10 elections with greatest voter turnout</option>
+									<option value="served_one_term">Presidents who served one term</option>
+									<option>Elections won in landslide (> 60% popular votes)</option>
+									<option value="greatest_turnout">Top 10 elections with greatest voter turnout</option>
 								</select>
 							</div>
 
@@ -89,15 +92,25 @@
 							<button type="submit" class="btn btn-success">Fetch results!</button>
 
 							<% end %>
-							<!-- swing candidates -->
+							
+							<!-- non elected presidents -->
 							<%= form_tag({:controller => "query", :action => "non_elected"}, :method => "get", :class => "non_elected") do %>
 
 								<button type="submit" class="btn btn-success">Fetch results!</button>
 							<% end %>
 
+						<!-- presidents who only served one term -->
+							<%= form_tag({:controller => "query", :action => "served_one_term"}, :method => "get", :class => "served_one_term") do %>
 
-								<!-- swing candidates -->
+								<button type="submit" class="btn btn-success">Fetch results!</button>
+							<% end %>
+									<!-- swing candidates -->
 							<%= form_tag({:controller => "query", :action => "landslide"}, :method => "get", :class => "landslide") do %>
+								<button type="submit" class="btn btn-success">Fetch results!</button>
+							<% end %>
+
+							<!-- Top 10 elections with greatest voter turnout -->
+							<%= form_tag({:controller => "query", :action => "greatest_turnout"}, :method => "get", :class => "greatest_turnout") do %>
 
 								<button type="submit" class="btn btn-success">Fetch results!</button>
 							<% end %>
@@ -130,10 +143,14 @@
 			$(".swing_candidates").fadeIn();
 		} else if (param == "party_history") {
 			$(".party_history").fadeIn();
-		}else if (param == "non_elected") {
+		} else if (param == "non_elected") {
 			$(".non_elected").fadeIn();
 		}else if(param=="landslide"){
 			$(".landslide").fadeIn();
+		} else if (param == "served_one_term") {
+			$(".served_one_term").fadeIn();
+		} else if (param == "greatest_turnout") {
+			$(".greatest_turnout").fadeIn();
 		}
 
 		active_form = param; // last active form

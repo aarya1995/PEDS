@@ -9,6 +9,10 @@ Rails.application.routes.draw do
 
   get 'query/party_history'
 
+  get 'query/served_one_term'
+
+  get 'query/greatest_turnout'
+
   get 'election_year_query/results'
 
   get 'static_pages/index'
