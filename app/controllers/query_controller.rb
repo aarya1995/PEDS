@@ -34,4 +34,8 @@ class QueryController < ApplicationController
     @result = Election.party_history(party_name)
     puts @result
   end
+
+  def non_elected
+    @result = Election.find_non_elected()
+  end
 end

@@ -26,7 +26,7 @@
 									<option value="non-contiguous">Query for re-elected on non-contiguous times</option>
 									<option value="swing_candidates">Swing candidates</option>
 									<option value="party_history">Party historical query</option>
-									<option>Presidents without election</option>
+									<option value="non_elected">Presidents without election</option>
 									<option>Presidents who served one term</option>
 									<option>Elections won in landslide (> 60% popular votes)</option>
 									<option>Top 10 elections with greatest voter turnout</option>
@@ -87,7 +87,14 @@
 								</select>
 
 							<button type="submit" class="btn btn-success">Fetch results!</button>
+
 							<% end %>
+							<!-- swing candidates -->
+							<%= form_tag({:controller => "query", :action => "non_elected"}, :method => "get", :class => "non_elected") do %>
+
+								<button type="submit" class="btn btn-success">Fetch results!</button>
+							<% end %>
+
 						</div>
 					</div>
 				</div>
@@ -116,6 +123,8 @@
 			$(".swing_candidates").fadeIn();
 		} else if (param == "party_history") {
 			$(".party_history").fadeIn();
+		}else if (param == "non_elected") {
+			$(".non_elected").fadeIn();
 		}
 
 		active_form = param; // last active form
