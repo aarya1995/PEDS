@@ -50,7 +50,7 @@ class Election < ActiveRecord::Base
 				else
 					full_name= (p1.first_name + " " +p1.middle_name + " " + p1.last_name)
 				end
-				results << president
+				results << [full_name,president]
 			end
 		}
 		return results

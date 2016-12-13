@@ -1,0 +1,33 @@
+<%= render 'partials/navbar' %>
+
+<div class="container query-container">
+	<div class="row">
+		<div class="col-md-10">
+			<h1>Presidents who only served one term (<%= @result.count %>)</h1>
+			<hr>
+			<table class="table table-bordered table-hover table-striped nominee-results2 swing-table">
+				<thead class="query-thead">
+					<tr>
+						<th>Candidate Name</th>
+						<th>View full info</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @result.each do |candidate| %>
+					<% person_id = Election.find_person_by_name(candidate) %>
+					<tr>
+						<td><%= candidate %></td>
+						<td><%= link_to "More details...", {:controller => "query", 
+							:action => "presidential_candidates", :candidate => person_id } %></td>
+					</tr>
+					<% end %>
+				</tbody>
+			</table>
+			<a class="btn btn-primary btn-md" href="<%= root_path %>" role="button">Try a different query!</a>
+
+		</div>
+	</div>
+</div>
+
+
+<%= render 'partials/footer' %>

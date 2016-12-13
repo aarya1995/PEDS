@@ -9,10 +9,15 @@ Rails.application.routes.draw do
 
   get 'query/party_history'
 
+  get 'query/served_one_term'
+
+  get 'query/greatest_turnout'
+
   get 'election_year_query/results'
 
   get 'static_pages/index'
 
+  get 'query/non_elected'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

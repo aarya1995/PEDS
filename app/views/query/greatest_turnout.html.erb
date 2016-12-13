@@ -1,0 +1,31 @@
+<%= render 'partials/navbar' %>
+
+<div class="container query-container">
+	<div class="row">
+		<div class="col-md-10">
+			<h1>Top 10 elections sorted by greatest voter turnout</h1>
+			<hr>
+			<table class="table table-bordered table-hover table-striped nominee-results2 swing-table">
+				<thead class="query-thead">
+					<tr>
+						<th>Election year</th>
+						<th>Voter turnout (%)</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @result.each do |k,v| %>
+					<tr>
+						<td><%= k %></td>
+						<td><%= v %></td>
+					</tr>
+					<% end %>
+				</tbody>
+			</table>
+			<a class="btn btn-primary btn-md" href="<%= root_path %>" role="button">Try a different query!</a>
+
+		</div>
+	</div>
+</div>
+
+
+<%= render 'partials/footer' %>
