@@ -12,7 +12,8 @@ class Election < ActiveRecord::Base
 
 			popular_percentage = 100*((winner.num_popular_votes.delete(",").to_f)/(election.total_popular_votes.to_i))
 			if(popular_percentage>=60)
-				landslides_elections<< results_by_year(election.end_date.split(",")[1].strip)
+				year = election.end_date.split(",")[1].strip
+				landslides_elections<< [year,results_by_year(year)]
 			end
 		}
 		return landslides_elections

@@ -1,0 +1,35 @@
+<%= render 'partials/navbar' %>
+
+<div class="container query-container">
+	<div class="row">
+		<div class="col-md-10">
+			<h1> (<%= @result.count %>) Elections resulted in landslide(>60% Popular vote taken by a candidate)</h1>
+			<hr>
+			<h3>Landslide Elections</h3>
+			<table class="table table-bordered table-hover table-striped nominee-results2 swing-table">
+				<thead class="query-thead">
+					<tr>
+						<th>Election Year</th>
+						<th>View full info</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @result.each do |election_pair| %>
+			
+					
+					<tr>
+						<td><%= election_pair[0] %></td>
+						<td><%= link_to "More details...", {:controller => "query", 
+							:action => "election_year", :year => election_pair[0] } %></td>
+					</tr>
+					<% end %>
+				</tbody>
+			</table>
+			<a class="btn btn-primary btn-md" href="<%= root_path %>" role="button">Try a different query!</a>
+
+		</div>
+	</div>
+</div>
+
+
+<%= render 'partials/footer' %>

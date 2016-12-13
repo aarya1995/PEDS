@@ -38,4 +38,8 @@ class QueryController < ApplicationController
   def non_elected
     @result = Election.find_non_elected()
   end
+
+  def landslide
+    @result =Election.find_landslide()
+  end
 end

@@ -28,7 +28,7 @@
 									<option value="party_history">Party historical query</option>
 									<option value="non_elected">Presidents without election</option>
 									<option>Presidents who served one term</option>
-									<option>Elections won in landslide (> 60% popular votes)</option>
+									<option value="landslide">Elections won in landslide (> 60% popular votes)</option>
 									<option>Top 10 elections with greatest voter turnout</option>
 								</select>
 							</div>
@@ -95,6 +95,13 @@
 								<button type="submit" class="btn btn-success">Fetch results!</button>
 							<% end %>
 
+
+								<!-- swing candidates -->
+							<%= form_tag({:controller => "query", :action => "landslide"}, :method => "get", :class => "landslide") do %>
+
+								<button type="submit" class="btn btn-success">Fetch results!</button>
+							<% end %>
+
 						</div>
 					</div>
 				</div>
@@ -125,6 +132,8 @@
 			$(".party_history").fadeIn();
 		}else if (param == "non_elected") {
 			$(".non_elected").fadeIn();
+		}else if(param=="landslide"){
+			$(".landslide").fadeIn();
 		}
 
 		active_form = param; // last active form
